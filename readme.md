@@ -6,7 +6,7 @@
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-### Table of Contents
+## Table of Contents
 - [Newsletters](#newsletters)
 - [Sources of news](#sources-of-news)
 - [Podcasts](#podcasts)
@@ -29,6 +29,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Accelerators](#accelerators)
 - [Books](#books)
 
+## Contents
+
 ### Newsletters
 * [Bot Weekly](http://botweekly.com/)
 * [Chat Bots Weekly](http://www.chatbotsweekly.com/)
@@ -45,20 +47,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Technically Sentient](https://inside.com/technically-sentient)
 * [Locutius](http://tinyletter.com/locutius)
 
-### Sources of news
-* []()
-
 ### Podcasts and episodes
 * [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 * [BotCast from ChatbotsMagazine](https://soundcloud.com/chatbotsmagazine)
 * [BotCast from oratio](https://www.facebook.com/3x14159265)
 * [Bots Podcast with Jon Bruner](https://dev.to/sedaily/bots-podcast-with-jon-bruner)
-
-### Startups
-* []()
-
-### Building platforms
-* []()
 
 ### Popular examples of bots
 * [Poncho](https://www.messenger.com/t/hiponcho/)
@@ -86,6 +79,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Kik](https://dev.kik.com/#/home)
 * [Twitter](https://dev.twitter.com/overview/api)
 * [Amazon Alexa](https://developer.amazon.com/alexa)
+* [Smooch](https://smooch.io/)
 * [Discord](https://discordapp.com/developers/docs/intro)
 * [LINE](https://developers.line.me/messaging-api/overview)
 * [Google Home/Google Assistant](https://developers.google.com/actions/)
@@ -93,10 +87,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [iMessage](https://developer.apple.com/imessage/)
 * [Viber](https://developers.viber.com/)
 * Web
-* Email
+  * [Smooch](https://smooch.io/)
 * SMS
+  * [Twilio](https://www.twilio.com/sms)
+  * [Sinch](https://www.sinch.com/products/sms-api/)
+* Email
 
-### Analytics tools
+### Tools
+
+#### Analytics
 * [BotMetrics](https://bot-metrics.com/)
 * [Dashbot](https://www.dashbot.io/)
 * [Botanalytics](https://botanalytics.co/)
@@ -106,23 +105,99 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Botlytics](http://www.botlytics.co/)
 * [UxProbe](https://www.uxpro.be/chatbot-analytics/)
 * [DialogAnalytics](https://dialoganalytics.com/)
+* [VoiceLabs](http://voicelabs.co/)
+* [Opearlo Analytics](https://analytics.opearlo.com/)
+* [Witlingo](http://www.witlingo.com/)
+
+#### Prototyping
+* [BotSociety](https://botsociety.io/)
+* [BotPreview](https://botpreview.com/)
+
+### Sources (news, articles, blogs, resources)
+
+#### VentureBeat
+
+* [Bots](http://venturebeat.com/category/bots/)
+* [Voice Assistants](http://venturebeat.com/search/?q=voice%20assistant)
+
+#### TechCrunch
+
+* [Alexa](https://techcrunch.com/tag/alexa/)
+* [Google Home](https://techcrunch.com/tag/google-home/)
+* [Bots](https://techcrunch.com/tag/bots/)
+
+#### Medium
+
+* [Alexa](https://medium.com/tag/alexa)
+* [Voice Assistant](https://medium.com/tag/voice-assistant)
+* [Amazon Echo](https://medium.com/tag/amazon-echo)
+* [Google Home](https://medium.com/tag/google-home)
+* [Siri](https://medium.com/tag/siri)
+* [Voice](https://medium.com/tag/voice)
+
+#### Reddit
+
+* [Alexa](https://www.reddit.com/r/alexa/)
+* [Amazon Echo](https://www.reddit.com/r/amazonecho/)
+* [Google Home](https://www.reddit.com/r/googlehome/)
 
 ### Open Source projects
 * []()
 
-### NLP engines
+### NLP (tools, engines, SDKs, frameworks)
+* [wit.ai](https://wit.ai/)
+* [api.ai](https://api.ai/)
+* [h2o.ai](http://www.h2o.ai/)
+* [Amazon Lex](https://aws.amazon.com/lex/)
+* []()
+* []()
+* []()
+* []()
 * []()
 
+### Bot building platforms
+* [ManyChat](https://manychat.com/)
+* [PullString](https://www.pullstring.com/#panel-platforms)
+* [Chatfuel](https://chatfuel.com/)
+* [Sequel](https://www.onsequel.com/)
+* [init.ai](https://www.init.ai/)
+* [GupShup](http://www.gupshup.io/developer/home)
+* [ManyBot](https://manybot.io/)
+* [Meya](https://meya.ai/)
+* [Motion.ai](https://www.motion.ai/)
+* [Dexter](https://rundexter.com/)
+* [HelloStars](https://hellotars.com/)
+
+### Personal assistants
+* [x.ai](https://x.ai/)
+* [Howdy](https://howdy.ai/)
+* [Replika.ai](https://replika.ai/)
+* [Fin](https://www.fin.com/)
+* [Microsoft Cortana](https://www.microsoft.com/en/mobile/experiences/cortana/)
+* [Siri](http://www.apple.com/uk/ios/siri/)
+* [Mycroft](https://mycroft.ai/)
+* [Viv](http://viv.ai/)
+* [Amazon Alexa](https://developer.amazon.com/alexa)
+* [Google Home](https://madeby.google.com/home/)
+
 ### Payment services
+* []()
+* []()
+* []()
+* []()
 * []()
 
 ### Tutorials/Guides
 * []()
-
-### Blogs
+* []()
+* []()
+* []()
 * []()
 
 ### SDKs & Frameworks
+* [Microsoft Bot Framework](https://docs.botframework.com/en-us/downloads/)
+* []()
+* []()
 * []()
 
 ### Agencies
@@ -186,7 +261,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [MessengerChatbot.com](http://www.messengerchatbot.com)
 * [MindIQ](http://www.mindiq.in)
 * [mmuze](http://www.mmuze.com)
-* [Morph.ai](http://morph.ai/)
 * [Mrbot.im](http://mrbot.im)
 * [Nimblestack](http://nimblestack.io)
 * [Parlo](http://www.parlo.io)
@@ -208,16 +282,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [wagwan](http://www.wagwan.io)
 * [Wordhop](https://wordhop.io)
 * [Zenbot](http://www.zenbot.org)
-* [Zoom.ai](http://zoom.ai)
 * [BotCube](https://botcube.co/)
 * [Boter.chat](http://boter.chat)
-* [Recast.AI](https://recast.ai)
-* [Gupshup](http://www.gupshup.io)
 * [InbentaBot](https://www.inbenta.com/en/features/chatbots/)
-* [Philippe Dionne](https://dialoganalytics.com)
 * [BotSupply](http://botsupply.co/)
 * [Azumo](http://azumo.co/)
-* [Conversable](http://www.conversable.com)
 
 ### Influencers/People
 * []()
@@ -225,7 +294,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Events
 * [Chatbot Summit](https://www.chatbotsummit.com/)
 * [ChatbotConf](https://chatbotconf.com/)
-* [Chatbots Belarus](http://chatbots.by/)
+* [ChatbotConf Belarus](http://chatbots.by/)
 
 ### Fundraising (accelerators, camps, capitals, funds)
 * [Alexa Accelerator](http://www.techstars.com/content/accelerators/announcing-alexa-accelerator-powered-techstars/)
@@ -234,11 +303,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [TheVentury's Bot Accelerator](https://theventury.com/chatbots/)
 
 ### Books
-* [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/)
 * [Create Convincing Computer Conversations](https://www.pullstring.com/conversational-writing)
-* []()
-* []()
 * [Voice UI Design for Alexa Skill Developers](https://www.pullstring.com/user-interface-design-for-alexa-skill-authors)
+* [Designing Bots](http://shop.oreilly.com/product/0636920057741.do)
+* [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/)
 
 ### License
 
