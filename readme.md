@@ -141,24 +141,24 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Amazon Echo](https://www.reddit.com/r/amazonecho/)
 * [Google Home](https://www.reddit.com/r/googlehome/)
 
-### Open Source projects
-* []()
+#### Other
+
+* [Chatbots Magazine](https://chatbotsmagazine.com/)
+* [BotWiki](https://botwiki.org/)
+* [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.vh9fn3my6)
+* [TopBots](http://www.topbots.com/)
 
 ### NLP (tools, engines, SDKs, frameworks)
 * [wit.ai](https://wit.ai/)
 * [api.ai](https://api.ai/)
 * [h2o.ai](http://www.h2o.ai/)
 * [Amazon Lex](https://aws.amazon.com/lex/)
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ### Bot building platforms
 * [ManyChat](https://manychat.com/)
 * [PullString](https://www.pullstring.com/#panel-platforms)
 * [Chatfuel](https://chatfuel.com/)
+* [IBM Watson](https://www.ibm.com/watson/developercloud/)
 * [Sequel](https://www.onsequel.com/)
 * [init.ai](https://www.init.ai/)
 * [GupShup](http://www.gupshup.io/developer/home)
@@ -167,6 +167,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Motion.ai](https://www.motion.ai/)
 * [Dexter](https://rundexter.com/)
 * [HelloStars](https://hellotars.com/)
+* [notify.io](http://www.notify.io/)
+* [Converse](http://www.converse.ai/)
+* [FlowXO](https://flowxo.com/)
+* [message.io](https://www.message.io/home)
 
 ### Personal assistants
 * [x.ai](https://x.ai/)
@@ -179,26 +183,29 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Viv](http://viv.ai/)
 * [Amazon Alexa](https://developer.amazon.com/alexa)
 * [Google Home](https://madeby.google.com/home/)
+* [Magic](https://getmagic.com/)
+* [Sensay](https://www.sensay.it/)
 
-### Payment services
-* []()
-* []()
-* []()
-* []()
-* []()
+### Payment & subscription services
+* [Tap2Pay](http://tap2pay.me/)
+* [Paypal](https://developer.paypal.com/)
+* [Stripe](https://stripe.com/)
+* [Braintree](https://www.braintreepayments.com/)
 
-### Tutorials/Guides
-* []()
-* []()
-* []()
-* []()
-* []()
+### Bot Development
 
-### SDKs & Frameworks
+#### SDKs/Frameworks/Libraries
 * [Microsoft Bot Framework](https://docs.botframework.com/en-us/downloads/)
-* []()
-* []()
-* []()
+* [BotPress](https://botpress.io/)
+* [Botkit](https://github.com/howdyai/botkit)
+
+#### Boilerplates/templates
+* [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
+
+#### Tutorials/Guides
+* [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
+* [Create smart Facebook Messenger Chatbot with Node.js and api.ai (NLP)](https://botcube.co/blog/2017/02/23/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html)
+* [Full guide on creating Telegram bot with Rails](https://botcube.co/blog/2017/02/04/full-guide-on-creating-telegram-bot-with-rails.html)
 
 ### Agencies
 * [Letzgro](http://letzgro.net/)
@@ -289,7 +296,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Azumo](http://azumo.co/)
 
 ### Influencers/People
-* []()
+* **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
+* **Oren Jacob** - Founder and CEO, PullString. [Twitter](https://twitter.com/orenjacob) [Medium](https://medium.com/@orenjacob) [Facebook](https://facebook.com/748835990)
+* **Chris Messina** - Invented the hashtag; X Uber; Xoogler. [Twitter](https://twitter.com/chrismessina) [Medium](https://medium.com/@chrismessina) [Facebook](https://facebook.com/10152495575826874)
+* **Sarah Perez** - Reporter at TechCrunch. [Twitter](https://twitter.com/sarahintampaa) [Medium](https://medium.com/@sarahperez) [Facebook](https://facebook.com/10152984267205493)
+* **Amir Shevat** - Director of Developer Relations at Slack; Former Developer Relations Program Manager at Google; Author of Designing Bots. [Twitter](https://twitter.com/ashevat) [Medium](https://medium.com/@ashevat) [Facebook](https://www.facebook.com/ashevat)
+* **Matt Schlicht** - CEO of Octane.ai, Editor of ChatbotsMagazine, Forbes 30 under 30. [Twitter](https://twitter.com/MattPRD) [Facebook](https://www.facebook.com/Mattfs)
+* **Adelyn Zhou** - Co-founder of Topbots. X Nextdoor, Amazon & Eventbrite. [Medium](https://medium.com/@adelynzhou)
+ [Twitter](https://twitter.com/adelynzhou) [Facebook](https://www.facebook.com/adelyn.lan)
+* **Peter M Buch** - Founder of Swell. [Medium](https://medium.com/@petermbuch) [Twitter](https://twitter.com/peterbuch?lang=en) [Facebook](https://www.facebook.com/petermbuch)
 
 ### Events
 * [Chatbot Summit](https://www.chatbotsummit.com/)
