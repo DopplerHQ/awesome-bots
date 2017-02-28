@@ -50,7 +50,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Podcasts and episodes
 * [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast)
 * [BotCast from ChatbotsMagazine](https://soundcloud.com/chatbotsmagazine)
-* [BotCast from oratio](https://www.facebook.com/3x14159265)
+* [BotCast from oratio](https://botcast.wtf/)
 * [Bots Podcast with Jon Bruner](https://dev.to/sedaily/bots-podcast-with-jon-bruner)
 
 ### Popular examples of bots
@@ -69,6 +69,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotList](https://botlist.co/)
 * [ChatBottle](https://chatbottle.co/bots)
 * [Microsoft Bot Directory](https://bots.botframework.com/)
+* [Intento](https://inten.to/)
+* [Botpages](https://www.botpages.com/)
 
 ### Bot platforms (in messengers)
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
@@ -108,10 +110,35 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [VoiceLabs](http://voicelabs.co/)
 * [Opearlo Analytics](https://analytics.opearlo.com/)
 * [Witlingo](http://www.witlingo.com/)
+* [Chatmetrics](https://chatmetrics.io/)
+
+#### Marketing
+* [bCRM](https://bcrm.com/)
+
+#### Monetization
+* [RadBots](https://radbots.com/)
+* [waves.ai](https://www.waves.ai/)
 
 #### Prototyping
 * [BotSociety](https://botsociety.io/)
 * [BotPreview](https://botpreview.com/)
+* [BotMock](https://botmock.com/)
+* [BotFrame](https://botframe.com)
+* [Bots UI Kit for Messenger Platform](http://bots.mockuuups.com/)
+* [Layer Messenger design kit](http://layer.com/messaging-design-kit/)
+* [Convointerface](https://convointerface.com/)
+* [Walkiebot](https://walkiebot.co/)
+
+#### Testing
+* [BotTesting](http://bottesting.co/)
+* [BotFlair](https://botflair.com/)
+
+#### Internationalization
+* [Cyrano](http://cyrano.unbabel.com/)
+
+#### Customer service
+* [LiveChat24/7](https://www.livechat24-7.com/)
+* [agent.ai](https://www.agent.ai/)
 
 ### Sources (news, articles, blogs, resources)
 
@@ -147,18 +174,31 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotWiki](https://botwiki.org/)
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.vh9fn3my6)
 * [TopBots](http://www.topbots.com/)
+* [Chatbot's Life](https://chatbotslife.com/)
+* [ChatbotNewsDaily](https://chatbotnewsdaily.com/)
+
+### Job boards
+* [Botunity](http://botunity.co/)
+* [BotJobs](http://botjobs.io/)
+* [Botified](https://botified.io/)
+* [BotCompass](https://botcompass.co)
+* [ChatbotJobs](https://chatbotjobs.co/)
+* [BotGig](http://www.botgig.com/)
 
 ### NLP (tools, engines, SDKs, frameworks)
 * [wit.ai](https://wit.ai/)
 * [api.ai](https://api.ai/)
 * [h2o.ai](http://www.h2o.ai/)
 * [Amazon Lex](https://aws.amazon.com/lex/)
+* [Rasa NLU](http://rasa.ai/)
+* [LUIS](https://www.luis.ai/)
+* [ChatScript](https://github.com/bwilcox-1234/ChatScript)
+* [IBM Watson](https://www.ibm.com/watson/developercloud/)
 
 ### Bot building platforms
 * [ManyChat](https://manychat.com/)
 * [PullString](https://www.pullstring.com/#panel-platforms)
 * [Chatfuel](https://chatfuel.com/)
-* [IBM Watson](https://www.ibm.com/watson/developercloud/)
 * [Sequel](https://www.onsequel.com/)
 * [init.ai](https://www.init.ai/)
 * [GupShup](http://www.gupshup.io/developer/home)
@@ -171,6 +211,21 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Converse](http://www.converse.ai/)
 * [FlowXO](https://flowxo.com/)
 * [message.io](https://www.message.io/home)
+* [Parlo](https://parlo.io/)
+* [It's alive](http://itsalive.io/)
+* [Ubisend](https://www.ubisend.com)
+* [Recast.ai](https://recast.ai/)
+* [Octane AI](https://octaneai.com/)
+* [Rebotify](https://www.rebotify.com/)
+* [Bottr](https://bottr.me/)
+* [Personify](https://personify.ai/)
+* [Botcamp](http://botcamp.ai/)
+* [ChatClub](https://chatclub.me/)
+* [TalkBot](https://talkbot.io/)
+* [Chatteron](http://www.chatteron.io/)
+* [Firebot](https://www.firebot.io/en)
+* [Kitt.ai](http://kitt.ai/)
+* [Botmother](http://botmother.com/)
 
 ### Personal assistants
 * [x.ai](https://x.ai/)
@@ -198,6 +253,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Microsoft Bot Framework](https://docs.botframework.com/en-us/downloads/)
 * [BotPress](https://botpress.io/)
 * [Botkit](https://github.com/howdyai/botkit)
+* [Bottr](https://github.com/Bottr-js/Bottr)
+* [Botmaster](http://botmasterai.com/)
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
@@ -275,7 +332,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [PlayBots](http://playbots.io)
 * [PullString](https://www.pullstring.com)
 * [QwipIt](http://qwip.it)
-* [Reply.ai](http://www.reply.ai)
 * [Robots & Pencils](http://robotsandpencils.com)
 * [Skilled Creative](http://www.skilledcreative.com)
 * [Smarthealthlab](http://www.smarthealthlab.com)
@@ -310,8 +366,12 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatbot Summit](https://www.chatbotsummit.com/)
 * [ChatbotConf](https://chatbotconf.com/)
 * [ChatbotConf Belarus](http://chatbots.by/)
+* [Botness](https://www.botness.org/)
+* [BotDay](https://conferences.oreilly.com/artificial-intelligence/bot-ca)
+* [Talkabot](https://talkabot.ai/)
 
 ### Fundraising (accelerators, camps, capitals, funds)
+* [BotFunded](https://botfunded.com/)
 * [Alexa Accelerator](http://www.techstars.com/content/accelerators/announcing-alexa-accelerator-powered-techstars/)
 * [VoiceCamp](https://betaworks.com/voicecamp/)
 * [Alexa Fund](https://developer.amazon.com/alexa-fund)
@@ -321,7 +381,19 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Create Convincing Computer Conversations](https://www.pullstring.com/conversational-writing)
 * [Voice UI Design for Alexa Skill Developers](https://www.pullstring.com/user-interface-design-for-alexa-skill-authors)
 * [Designing Bots](http://shop.oreilly.com/product/0636920057741.do)
+* [Designing Voice User Interfaces: Principles of Conversational Experiences](http://amzn.to/2kbMKL9)
+* [Bot Business 101: How to start, run & grow your Bot / AI business](http://amzn.to/2jEGkzW)
+* [Conversational Interfaces: Principles of Successful Bots, Chatbots & Messaging Apps](http://amzn.to/2hLe1j9)
+* [Chatbots: 100 Successful Business and Brand Bots](http://amzn.to/2hTVrsF)
 * [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/)
+* [Designing Conversational Interfaces](http://www.convbook.com/)
+
+### Communities/chats
+* [Bots group - Facebook](https://www.facebook.com/groups/chatbot/)
+* [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/)
+* [Chatbots News](http://news.chatbotsmagazine.com/login)
+* [Open Chatbot](http://openchatbotbybcrm.typeform.com/to/t899Li)
+
 
 ### License
 
