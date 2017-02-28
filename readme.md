@@ -170,6 +170,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Other
 
+* [Botcube telegram channel](https://t.me/botcube)
 * [Chatbots Magazine](https://chatbotsmagazine.com/)
 * [BotWiki](https://botwiki.org/)
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.vh9fn3my6)
@@ -329,6 +330,29 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * **Adelyn Zhou** - Co-founder of Topbots. X Nextdoor, Amazon & Eventbrite. [Medium](https://medium.com/@adelynzhou)
  [Twitter](https://twitter.com/adelynzhou) [Facebook](https://www.facebook.com/adelyn.lan)
 * **Peter M Buch** - Founder of Swell. [Medium](https://medium.com/@petermbuch) [Twitter](https://twitter.com/peterbuch?lang=en) [Facebook](https://www.facebook.com/petermbuch)
+* **Dmitry Dumik** - Founder and CEO at Chatfuel. [Facebook](https://www.facebook.com/dumik) [Medium](https://medium.com/@ddumik)
+* **Josh Bocanegra** - CEO of Persona Technologies. [Twitter](https://twitter.com/Joshbocanegra) [Facebook](https://www.facebook.com/joshbocanegra) [Medium](https://medium.com/@joshbocanegra)
+* **Mikael Yang** - Co-Founder/CEO at ManyChat. [Facebook](https://www.facebook.com/mikedyang)
+* **Ted Livingston** - Founder and CEO at Kik Messenger. [Medium](https://medium.com/@tedlivingston) [Twitter](https://twitter.com/ted_livingston)
+* **Anastasia Sartan** - CEO/Co-Founder at Epytom. [Linkedin](https://www.linkedin.com/in/anastasia-sartan-67a4583a/) [Medium](https://chatbotsmagazine.com/@nastiasartan) [Facebook](https://www.facebook.com/anastasia.sartan) [Instagram](https://www.instagram.com/nastia_sartan/?hl=en)
+* **Mike Melanin** - Co-Founder at Statsbot. [Facebook](https://www.facebook.com/melaninmike) [Twitter](https://twitter.com/mike_melanin?lang=en) [Medium](https://medium.com/@mikemelanin) [ProductHunt](https://www.producthunt.com/@mike_melanin)
+* **Eugenia Kuyda** - Co-Founder and CEO at Luka. [Linkedin](https://www.linkedin.com/in/eugenia-kuyda-638a8a1b/) [Crunchbase](https://www.crunchbase.com/person/eugenia-kuyda#/entity) [Medium](https://medium.com/@ekuyda)
+* **David Marcus** - Head of Facebook Messenger. [Linkedin](https://www.linkedin.com/in/dmarcus/) [Facebook](https://www.facebook.com/davidm) [Twitter](https://twitter.com/davidmarcus?lang=en)
+* **Pavel Durov** - Founder, CEO at Telegram; Founder, ex-CEO of VK. [Twitter](https://twitter.com/durov) [Instagram](https://www.instagram.com/durov/?hl=en) [Facebook](https://www.facebook.com/durov)
+* **Dmitry Matskevich** - Co-Founder of Icon8. [ProductHunt](https://www.producthunt.com/@dmitry_matskevich) [Twitter](https://twitter.com/matskevich?lang=en) [Linkedin](https://www.linkedin.com/in/mdima/)
+* **Mikhail Naumov** - Co-Founder & President of DigitalGenius. [Linkedin](https://www.linkedin.com/in/mikhailnaumov/) [Twitter](https://twitter.com/mikhailnaumov?lang=en) [Facebook](https://www.facebook.com/mikhail.naumov)
+* **Artyom Keydunov** - ‎Co-Founder & CEO at Statsbot. [Linkedin](https://www.linkedin.com/in/keydunov/) [Linkedin](https://twitter.com/keydunov?lang=en) [Medium](https://medium.com/@keydunov) [Facebook](https://www.facebook.com/artkey)
+* **David Pichsenmeister** - Co-founder of oratio; Organizer of ChatbotConf and BotsHackathon. [Medium](https://medium.com/@3x14159265) [ProductHunt](https://www.producthunt.com/@3x14159265) [Twitter](https://twitter.com/3x14159265)
+* **Mike Gozzo** - Co-Founder of Smooch [Twitter](https://twitter.com/gozmike) [Linkedin](https://www.linkedin.com/in/mgozzo/) [ProductHunt](https://www.producthunt.com/@gozmike) [Medium](https://medium.com/@gozmike)
+* **Mikhail Larinov** - Head of Platform at Facebook Messenger. [Facebook](https://www.facebook.com/mikhail99) [Twitter](https://twitter.com/vernon99) [Linkedin](https://www.linkedin.com/in/mikhail-larionov-7601a510/)
+* **Ilya Gelfenbeyn** - Co-Founder and CEO of api.ai. [Linkedin](https://www.linkedin.com/in/gelfenbeyn/) [Twitter](https://twitter.com/gelfenbeyn?lang=en) [Medium](https://medium.com/@IlyaG)
+* **Esther Crawford** - ‎CEO of Olabot [Linkedin](https://www.linkedin.com/in/esthercrawford/) [Twitter](https://twitter.com/EstherCrawford) [Medium](https://medium.com/@EstherCrawford) [Facebook](https://www.facebook.com/EstherCrawford)
+* **Mariya Yao** - Head of Research & Design at TOPBOTS. [Linkedin](https://www.linkedin.com/in/mariyayao/) [Twitter](https://twitter.com/thinkmariya) [Medium](https://medium.com/@thinkmariya)
+* **Seth Louey** - ProductHunt 2016 Maker of the Year Nominee; Co-founder of BotList. [Twitter](https://twitter.com/sethlouey) [Linkedin](https://www.linkedin.com/in/sethlouey/) [ProductHunt](https://www.producthunt.com/@sethlouey) [Medium](https://medium.com/@sethlouey)
+* **Crystal Rose** - Founder of Sensay. [Twitter](https://twitter.com/crystalrose) [Linkedin](https://www.linkedin.com/in/rosecrystal/)
+* **Pavel Doronin** - Founder of AI Today/AI Community - RU/Chatbots Community [Facebook](https://www.facebook.com/pavdor)
+
+* **Alexander Gamanyuk** - Founder of ChatBottle & BotMakers [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
 
 ### Events
 * [Chatbot Summit](https://www.chatbotsummit.com/)
@@ -358,10 +382,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Communities/chats
 * [Bots group - Facebook](https://www.facebook.com/groups/chatbot/)
+* [Telegram channel about bots](https://t.me/botcube)
+* [Public chat about bots](https://t.me/botcubechat)
 * [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/)
 * [Chatbots News](http://news.chatbotsmagazine.com/login)
 * [Open Chatbot](http://openchatbotbybcrm.typeform.com/to/t899Li)
-
 
 ### License
 
