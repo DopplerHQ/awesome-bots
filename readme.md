@@ -269,14 +269,37 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Botkit](https://github.com/howdyai/botkit)
 * [Bottr](https://github.com/Bottr-js/Bottr)
 * [Botmaster](http://botmasterai.com/)
+* [Alexa Skill Kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda
+* [Node.js Messenger Bot](https://github.com/remixz/messenger-bot) - A Node client for the Facebook Messenger Platform
+* [Telegram Bot API PHP SDK](https://github.com/irazasyed/telegram-bot-sdk) - Telegram Bot API PHP SDK. Supports Laravel out of the box
+* [Wechaty](https://github.com/wechaty/wechaty) - Wechat for Bot. Powered by WebDriver / Node.js / Docker
+* [Hangoutsbot](https://github.com/hangoutsbot/hangoutsbot) - Google Hangouts bot
+* [Telegram.bot](https://github.com/MrRoundRobin/telegram.bot) - Telegram Bot API - C# Client
+* [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
+* [botman](https://github.com/mpociot/botman) - A framework agnostic PHP library to build chat bots
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+* [rust chatbot](https://github.com/jwilm/chatbot) - Chatbot framework in Rust
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - This library provides a pure Python interface for the Telegram Bot API
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
+* [PHP Facebook Messenger chatbot boilerplate](https://github.com/christophrumpel/chatbot-php-boilerplate)
+* [Facebook Messenger wit.ai node.js boilerplate](https://github.com/SimplyTechnologies/messenger-bot-wit-boilerplate)
 
 #### Tutorials/Guides
 * [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
 * [Create smart Facebook Messenger Chatbot with Node.js and api.ai (NLP)](https://botcube.co/blog/2017/02/23/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html)
 * [Full guide on creating Telegram bot with Rails](https://botcube.co/blog/2017/02/04/full-guide-on-creating-telegram-bot-with-rails.html)
+* [Creating a Bot using the Telegram Bot API](https://tutorials.botsfloor.com/creating-a-bot-using-the-telegram-bot-api-5d3caed3266d#.13ywsygju)
+* [Creating Chatbots For Discord](https://tutorials.botsfloor.com/creating-chatbots-for-discord-90407e1bf382#.zgegtkapa)
+* [A Slackbot in Elixir](https://tutorials.botsfloor.com/mustang-a-slackbot-in-elixir-de1b74bace4e#.l2nwctiuh)
+* [Facebook bot with visual recognition](https://tutorials.botsfloor.com/facebook-bot-with-visual-recognition-6f8a0fd9bb0f#.jjzy9x6a6)
+* [Build a bot in 2017](https://tutorials.botsfloor.com/build-a-bot-in-2017-64134ca9f05e#.lhhsff5z9)
+* [Run Facebook Messenger Chat Bot on AWS Lambda](https://tutorials.botsfloor.com/run-facebook-messenger-chat-bot-on-aws-lambda-2fa800a67d76#.21wsib01w)
+* [Build, deploy and manage a Facebook chatbot using Node.js and Cloud 66](https://tutorials.botsfloor.com/build-deploy-and-manage-a-facebook-chatbot-using-node-js-and-cloud-66-9813bffadd54#.551abpxul)
+* [Creating an Alexa skill with ASP.Net Web API](https://tutorials.botsfloor.com/having-a-merry-geeky-christmas-creating-an-alexa-skill-with-asp-net-web-api-d4a2cd6d016d#.ncd8crbtu)
+* [Connecting Chatfuel with API.AI](https://tutorials.botsfloor.com/connecting-chatfuel-with-api-ai-f2c01cb56b74#.dsjegvity)
+* [How to Code a Simple Twitter Bot for Complete Beginners](https://tutorials.botsfloor.com/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d#.pqaviyrop)
 
 ### Agencies
 * [Letzgro](http://letzgro.net/)
