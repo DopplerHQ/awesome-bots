@@ -287,6 +287,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Facebook Messenger wit.ai node.js boilerplate](https://github.com/SimplyTechnologies/messenger-bot-wit-boilerplate)
 
 #### Tutorials/Guides
+* [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
 * [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
 * [Create smart Facebook Messenger Chatbot with Node.js and api.ai (NLP)](https://botcube.co/blog/2017/02/23/tutorial-create-smart-facebook-messenger-chatbot-with-node-js-and-api-ai-nlp.html)
 * [Full guide on creating Telegram bot with Rails](https://botcube.co/blog/2017/02/04/full-guide-on-creating-telegram-bot-with-rails.html)
@@ -300,6 +301,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Creating an Alexa skill with ASP.Net Web API](https://tutorials.botsfloor.com/having-a-merry-geeky-christmas-creating-an-alexa-skill-with-asp-net-web-api-d4a2cd6d016d#.ncd8crbtu)
 * [Connecting Chatfuel with API.AI](https://tutorials.botsfloor.com/connecting-chatfuel-with-api-ai-f2c01cb56b74#.dsjegvity)
 * [How to Code a Simple Twitter Bot for Complete Beginners](https://tutorials.botsfloor.com/how-to-code-a-simple-twitter-bot-for-complete-beginners-36e37231e67d#.pqaviyrop)
+* [The Secret To Making Your Own Facebook Messenger Bot In Less Than 15 Minutes](https://chatbotsmagazine.com/have-15-minutes-create-your-own-facebook-messenger-bot-481a7db54892#.pn8peyuhu)
+* [How to create a chatbot without coding a single line](https://chatbotsmagazine.com/how-to-create-a-chatbot-without-coding-a-single-line-e716840c7245#.jykoqzcza)
+* [How To Build Bots for Messenger](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/)
+* [Creating a Chat Bot](https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.yxi68l2v6)
+* [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.5swghtinl)
+* [Pair Programming a Facebook Messenger Bot](https://www.youtube.com/watch?v=zFO1cRr5-qY)
+* [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 
 ### Agencies
 * [Letzgro](http://letzgro.net/)
@@ -423,6 +431,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/)
 * [Chatbots News](http://news.chatbotsmagazine.com/login)
 * [Open Chatbot](http://openchatbotbybcrm.typeform.com/to/t899Li)
+* [UX for Bots](https://www.facebook.com/groups/uxforbots/)
+* [HHBots](https://www.facebook.com/groups/hhbots/)
+* [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/)
 
 ### License
 
