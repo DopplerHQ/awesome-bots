@@ -188,7 +188,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Other
 
-* [Channel about of bots](https://t.me/botcube) - Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts
+* [Channel about of bots](https://t.me/botcube) - 🤖Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
 * [Chatbots Magazine](https://chatbotsmagazine.com/) - Chatbots, AI, NLP, Facebook Messenger, Slack, Telegram, and more
 * [BotWiki](https://botwiki.org/) - Botwiki is an open catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them
 * [TopBots](http://www.topbots.com/) - We scour the net for the latest content about bots & artificial intelligence. Be the FIRST to know & understand technical breakthroughs that change how we live and work
@@ -196,10 +196,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [ChatbotNewsDaily](https://chatbotnewsdaily.com/) - An Introduction to Chatbots, Messaging Channels and the History of Artificial Intelligence and Robots
 
 ### Job boards
+* [BotCompass](https://botcompass.co) - 🤖 Chatbot companies and developers to power up your business 🤖
 * [Botunity](http://botunity.co/) - Find a job you love in the Bot & AI Industry. Your next opportunity could be with one of these leading companies. Apply today
 * [BotJobs](http://botjobs.io/) - A job board focused on the Bot Industry
 * [Botified](https://botified.io/) - Hire Quality Bot Developers And Find Bot Jobs
-* [BotCompass](https://botcompass.co) - Chatbot companies and developers to power up your business
 * [ChatbotJobs](https://chatbotjobs.co/) - Find the remote or onsite job related to bots, AI, NLP, machine learning, data, neural networks
 * [BotGig](http://www.botgig.com/) - Hire a top-tier development team to build your chatbot
 
@@ -317,6 +317,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 
 ### Agencies
+* [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
 * [Letzgro](http://letzgro.net/) - With development team in Ukraine and availability throughout time zones, Letzgro gets hired for most critical web, mobile, video streaming and AI projects
 * [Xbots](http://xbots.ai/) - Xbots provides chatbot and conversational AI solutions for your business, personalizing the customer experience
 * [Argoz](http://argoz.io/) - Powering natural language understanding with Artificial Intelligence
@@ -354,7 +355,6 @@ talk to your customers at scale and get valuable insights from their preferences
 * [The Chatbot Factory](http://www.thechatbotfactory.com) - We build smart and flexible chatbots
 * [Turbo.ai](http://turbo.ai) - A bot for your business in minutes.
 * [Voxable](http://www.voxable.io) - Voxable builds conversational and voice interfaces for products
-* [BotCube](https://botcube.co/) - We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers
 * [Boter.chat](http://boter.chat)
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
 
@@ -417,12 +417,12 @@ talk to your customers at scale and get valuable insights from their preferences
 * [Designing Conversational Interfaces](http://www.convbook.com/) - A book for designers, developers and founders containing practical guidelines about how to create messaging applications that people will love to use
 
 ### Communities/chats
+* [Public group about bots](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
+* [Public chat about bots](https://t.me/botcubechat) - 🤖 Public chat where we discuss different topics about bots, bot development, platforms, news etc. 🤖
 * [Bots group - Facebook](https://www.facebook.com/groups/chatbot/) - This is a private group for people interested in learning about and building chat bots
-* [Telegram channel about bots](https://t.me/botcube) - Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts
-* [Public chat about bots](https://t.me/botcubechat) - Public chat where we discuss different topics about bots, bot development, platforms, news etc.
 * [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/) - Facebook group about chatbots
 * [Chatbots News](http://news.chatbotsmagazine.com/login) - An intelligent, supportive, and collaborative community for chatbot developers, designers, creators, and enthusiasts. Moderated by the Chatbots Magazine team
-* [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Build together the best experience for bots! 🤖 Share the best resources, discuss about UX & bots
+* [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Build together the best experience for bots!  Share the best resources, discuss about UX & bots
 * [HHBots](https://www.facebook.com/groups/hhbots/) - This group was created to provide a place for people to talk about their favorite facebook bots, slack bots, or any kind of bots!
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - This is a forum for developers building on the Messenger platform to interact with the Messenger team and other developers
 
