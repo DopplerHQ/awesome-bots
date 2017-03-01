@@ -188,7 +188,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Other
 
-* [Channel about of bots](https://t.me/botcube) - 🤖Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
+* [Channel about of bots](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
 * [Chatbots Magazine](https://chatbotsmagazine.com/) - Chatbots, AI, NLP, Facebook Messenger, Slack, Telegram, and more
 * [BotWiki](https://botwiki.org/) - Botwiki is an open catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them
 * [TopBots](http://www.topbots.com/) - We scour the net for the latest content about bots & artificial intelligence. Be the FIRST to know & understand technical breakthroughs that change how we live and work
