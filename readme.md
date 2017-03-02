@@ -94,6 +94,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Botpages](https://www.botpages.com/) - Botpages help make it easier for you to discover and find bots
 * [ProductHunt bot directory](https://www.producthunt.com/topics/bots)
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
+* [Qwazou Bot](https://www.messenger.com/t/Qwazou) - A Messenger Bot that helps you discover new bots on Messenger.
 
 ### Bot platforms (to build for)
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
