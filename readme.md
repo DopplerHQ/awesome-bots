@@ -1,6 +1,8 @@
-# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > A curated list of bot related resources (both chat and voice bots) by the [Botcube team](https://botcube.co/).
+
+### Chat with us [here](https://t.me/botcubechat) and read everyday news about bots from us [here](https://t.me/botcube). We're waiting for you! 🤖
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
@@ -429,3 +431,5 @@ talk to your customers at scale and get valuable insights from their preferences
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [BotCube](https://botcube.co/) has waived all copyright and related or neighboring rights to this work.
