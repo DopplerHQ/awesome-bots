@@ -297,6 +297,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram bot framework
 * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) - Telegram Bot API - C# Client
 * [telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go
+* [BootBot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
