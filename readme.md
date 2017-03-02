@@ -55,7 +55,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotBeat](http://venturebeat.com/newsletters/) - VentureBeat Newsletters. Connecting the dots: AI, messaging and bots
 * [Hearing Voices](https://www.getrevue.co/profile/hearingvoices) - This week's news about voice computing apps, delivered directly to your inbox
 * [Alexa News](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription) - Provide your email address to stay up to date with the latest Amazon Alexa news and IoT and voice industry trends
-* [BotBeat](http://venturebeat.com/newsletters/)
 * [Messaging Weekly](http://www.messagingweekly.com/) - The week's best messaging and #convcomm news, opinions and apps delivered every Friday
 * [Technically Sentient](https://inside.com/technically-sentient) - Bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology
 * [Locutius](http://tinyletter.com/locutius) - Locutius starts your week with with everything you need to know about the design and business of conversational systems, from voice to chatbots, plus the machine intelligence that powers it all
