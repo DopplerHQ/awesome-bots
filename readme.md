@@ -1,6 +1,6 @@
 # Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of bot related resources (both chat and voice bots) by the Botcube team.
+> A curated list of bot related resources (both chat and voice bots) by the [Botcube team](https://botcube.co/).
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
@@ -388,6 +388,7 @@ talk to your customers at scale and get valuable insights from their preferences
 * **Crystal Rose** - Founder of Sensay. [Twitter](https://twitter.com/crystalrose) [Linkedin](https://www.linkedin.com/in/rosecrystal/)
 * **Pavel Doronin** - Founder of AI Today/AI Community - RU/Chatbots Community [Facebook](https://www.facebook.com/pavdor)
 * **Alexander Gamanyuk** - Founder of ChatBottle & BotMakers [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
+* **Dan Gailey** - Founder and CEO of RadBots [Twitter](twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 
 ### Events
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
@@ -395,6 +396,7 @@ talk to your customers at scale and get valuable insights from their preferences
 * [Botness](https://www.botness.org/) - Botness is a two-day gathering in NYC.  Bot reladted startups, tools, bots for work and play, discovery, and engagement
 * [BotDay](https://conferences.oreilly.com/artificial-intelligence/bot-ca) - Bot Day offers the strategic and technical insight you need to start implementing AI-driven conversational interfaces that can talk to your customers, make your employees more productive, and streamline your business.
 * [Talkabot](https://talkabot.ai/) - Bots, conversational software and community
+* [Bot Developers Meetup SF](https://www.meetup.com/bots-sf/) - We're a bunch of bot/ai/ml building enthusiasts from San Francisco that get together, hack, and demo what we're working on. Welcome! :)
 
 ### Fundraising (accelerators, camps, capitals, funds)
 * [BotFunded](https://botfunded.com/) - List of latest fundings for bot startups
