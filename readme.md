@@ -45,6 +45,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Contents
 
 ### Newsletters
+* [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
 * [Bot Weekly](http://botweekly.com/) - Bot Weekly is a weekly round up of the most interesting chatbot and AI news
 * [Chat Bots Weekly](http://www.chatbotsweekly.com/) - 4100+ people from companies like Slack, Facebook, PH, Kik and Sequoia are here. Covering the industry around Slack, SMS, Kik and Facebook Messenger chatbots. Also called conversational commerce or #ConvComm
 * [Botlist Weekly](http://botlist.us12.list-manage1.com/subscribe?u=b9348305a16bf754c64f822a7&id=71c583935e) - Weekly newsletter from BotList
@@ -151,6 +152,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Layer Messenger design kit](http://layer.com/messaging-design-kit/) - A design kit for Sketch, containing everything you need to craft beautiful and functional rich messaging experiences
 * [Convointerface](https://convointerface.com/) - Build Chatbots, Messaging apps, and Conversational forms with easy to use design assets
 * [Walkiebot](https://walkiebot.co/) - Design your bot dialogue. Test copy, add attachments and share with your dev team. Made for humans, readable by Slack
+* [Twinery](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
@@ -193,7 +195,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Other
 
-* [Channel about of bots](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
+* [BotCube Telegram channel](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
 * [Chatbots Magazine](https://chatbotsmagazine.com/) - Chatbots, AI, NLP, Facebook Messenger, Slack, Telegram, and more
 * [BotWiki](https://botwiki.org/) - Botwiki is an open catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them
 * [TopBots](http://www.topbots.com/) - We scour the net for the latest content about bots & artificial intelligence. Be the FIRST to know & understand technical breakthroughs that change how we live and work
@@ -246,6 +248,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatteron](http://www.chatteron.io/) - Build Facebook Chat bots in under 5 minutes! The best AI platform for building chat bots
 * [Firebot](https://www.firebot.io/en) - Chatbots for everybody. Build your own Facebook or web chatbot free and without programming
 * [E.D.D.I](http://eddi.labs.ai/) - Enterprise-Ready Chatbot Platform for creating, running and maintaining customizable chatbots
+* [Conversable](http://eddi.labs.ai/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
@@ -332,8 +335,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Sodima Solutions](http://sodimasolutions.com/) - We rethink how businesses interact with their customers. Tailored chatbot solutions for the ones that value customer experience & emerging technology
 * [Alfabot](https://alfabot.it/en.html) - Conversational UX Studio. We build chat bots for the enterprise. We are focused on Facebook Messenger, Telegram and Slack
 * [NLP Bots](http://www.nlpbots.com/) - NLPBOTS integrate with your online product or service; web, intranet or mobile, to give your users an always available help feature via an intelligent chat-bot interface. NLPBOTS continuously learn from their interactions with users and give businesses the opportunity to analyse and build on product or service features that drive efficiency and engagement.
-* [BotCompany](http://www.botcompany.co/) - Let your business talk. Deploy Chatbots to promote your brand, increase engagement, drive sales,
-talk to your customers at scale and get valuable insights from their preferences and behavior
+* [BotCompany](http://www.botcompany.co/) - Let your business talk. Deploy Chatbots to promote your brand, increase engagement, drive sales, talk to your customers at scale and get valuable insights from their preferences and behavior
 * [Xandra Labs](http://xandralabs.com/) - Xandra is a global chatbot agency creating 'bot' personalities and designing conversations on AI platforms for brands and communities. We think accessing information and services should be as easy and fun as chatting with a friend
 * [The Bot Studio](http://www.thebotstudio.com/) - AI Powered Apps & Bots For the automotive & transportation
 * [Chatbots Agency](https://chatbotsagency.com) - The Chatbots Agency helps you develop your digital communication designs!
@@ -361,7 +363,6 @@ talk to your customers at scale and get valuable insights from their preferences
 * [The Chatbot Factory](http://www.thechatbotfactory.com) - We build smart and flexible chatbots
 * [Turbo.ai](http://turbo.ai) - A bot for your business in minutes.
 * [Voxable](http://www.voxable.io) - Voxable builds conversational and voice interfaces for products
-* [Boter.chat](http://boter.chat)
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
 
 ### Influencers/People
@@ -421,12 +422,12 @@ talk to your customers at scale and get valuable insights from their preferences
 * [Bot Business 101: How to start, run & grow your Bot / AI business](http://amzn.to/2jEGkzW) - "I tried to cover every aspect of the Bot business such as choosing the right distribution channel, the correct approach to a potential client, pricing your Bot, designing a solid conversation flow, discovery, increasing retention and many others"
 * [Conversational Interfaces: Principles of Successful Bots, Chatbots & Messaging Apps](http://amzn.to/2hLe1j9) - Conversational Interfaces covers the evolution of messaging platforms like SMS, Facebook Messenger, Apple iMessage, Slack, Kik, and WeChat and how to create successful bots, chatbots, and messaging apps for each platform
 * [Chatbots: 100 Successful Business and Brand Bots](http://amzn.to/2hTVrsF) - In this book, we profile 100 of the top bots built on Facebook Messenger, Apple iMessage, Amazon Echo, Kik, Skype, Slack, and WeChat. We feature hundreds of actionable bot strategies that these brands have used to attract, engage and retain users
-* [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/)
+* [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/) - A book that explains the types of Alexa skills, how to build them and how to track user behaviour
 * [Designing Conversational Interfaces](http://www.convbook.com/) - A book for designers, developers and founders containing practical guidelines about how to create messaging applications that people will love to use
 
 ### Communities/chats
-* [Public group about bots](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
-* [Public chat about bots](https://t.me/botcubechat) - 🤖 Public chat where we discuss different topics about bots, bot development, platforms, news etc. 🤖
+* [BotCube channel on Telegram](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
+* [BotChat on Telegram](https://t.me/botcubechat) - 🤖 Public chat where we discuss different topics about bots, bot development, platforms, news etc. 🤖
 * [Bots group - Facebook](https://www.facebook.com/groups/chatbot/) - This is a private group for people interested in learning about and building chat bots
 * [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/) - Facebook group about chatbots
 * [Chatbots News](http://news.chatbotsmagazine.com/login) - An intelligent, supportive, and collaborative community for chatbot developers, designers, creators, and enthusiasts. Moderated by the Chatbots Magazine team
