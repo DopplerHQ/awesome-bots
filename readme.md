@@ -78,6 +78,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Hipmunk](https://www.messenger.com/t/hipmunk/) - Hipmunk chatbot for Facebook Messenger is a super-powered Hipmunk who digs through tons of travel options to help you find the best flights and hotels
 
 ### Directories (lists)
+* [There is a bot for that](https://thereisabotforthat.com/) - Search engine for bots
 * [BotList](https://botlist.co/) - App Store for bots
 * [ChatBottle](https://chatbottle.co/bots) - Search platform for bots
 * [Microsoft Bot Directory](https://bots.botframework.com/) - Bot Directory from Microsoft
