@@ -64,6 +64,11 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast) - The O'Reilly Bots Podcast covers advances in conversational user interfaces, artificial intelligence, and messaging that are revolutionizing the way we interact with software
 * [BotCast from oratio](https://botcast.wtf/) - Weekly insights from the bots and messaging space with Pete & David
 * [Bots Podcast with Jon Bruner](https://dev.to/sedaily/bots-podcast-with-jon-bruner)
+* [VZV Podcast](http://www.verizonventures.com/blog/podcast/episode-1-chatbots-and-ai/) - Chatbots and AI podcast, hosted by Christie Pitts of the Verizon Ventures Development Team
+* [a16z Podcast: Bots and Beyond](http://a16z.com/2016/04/18/bots-messaging-conversation-commerce/) - Connie Chan, Benedict Evans, and Chris Messina discuss the topic of bots, mobile, and beyond: the (evolution?) from web to apps to messaging to bots; chat as an interface; “conversational commerce”; and so on
+* [Software Engineering Daily](https://softwareengineeringdaily.com/tag/chatbots/) - Weekly podcasts about chatbots and messaging, including Slack Bots Podcast with Amir Shevat
+* [LPX Episode 7: Are chatbots the new apps?](https://lpxshow.com/lpx-episode-7-are-chatbots-the-new-apps/) - A podcast about future of chatbots with Robert Stephens, a co-founder of a new chatbot service called Assist.
+* [What's Tech](http://www.theverge.com/2016/4/19/11459188/what-are-bots-explainer-faq-guide-facebook-microsoft-) - Casey Newton from The Verge on the interesting applications of bots
 
 ### Popular examples of bots
 * [Poncho](https://www.messenger.com/t/hiponcho/) - Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit. It's free!
