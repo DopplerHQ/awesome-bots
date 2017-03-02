@@ -2,7 +2,7 @@
 
 > A curated list of bot related resources (both chat and voice bots) by the [Botcube team](https://botcube.co/).
 
-### Chat with us [here](https://t.me/botcubechat) and read everyday news about bots from us [here](https://t.me/botcube). We're waiting for you! 🤖
+### Get [five epic actionable bot tricks](https://botcube.co/newsletter) delivered to your email once a week and read everyday news about bots [here](https://t.me/botcube). We're waiting for you! 🤖
 
 Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
