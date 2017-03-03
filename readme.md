@@ -422,6 +422,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotDay](https://conferences.oreilly.com/artificial-intelligence/bot-ca) - Bot Day offers the strategic and technical insight you need to start implementing AI-driven conversational interfaces that can talk to your customers, make your employees more productive, and streamline your business.
 * [Talkabot](https://talkabot.ai/) - Bots, conversational software and community
 * [Bot Developers Meetup SF](https://www.meetup.com/bots-sf/) - We're a bunch of bot/ai/ml building enthusiasts from San Francisco that get together, hack, and demo what we're working on. Welcome! :)
+* [Bots Berlin](https://www.meetup.com/Bots-Berlin-Build-better-conversational-interfaces-with-AI/) - This group is about how to design and develop products for these conversational platforms using AI, machine learning and natural language processing. We’re in the early days of the "bot economy" - so let's get together and make it happen!
 
 ### Fundraising (accelerators, camps, capitals, funds)
 * [BotFunded](https://botfunded.com/) - List of latest fundings for bot startups
