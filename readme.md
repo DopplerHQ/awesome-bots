@@ -274,6 +274,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### ChatOps
 * [slack-deploy-bot](https://github.com/accessd/slack-deploy-bot) - A Slack bot that helps you to deploy your apps
+* [showcase-ansible-chatops](https://github.com/StackStorm/showcase-ansible-chatops) - Vagrant Demo showing ChatOps with Ansible
+* [lita](https://github.com/litaio/lita) - ChatOps for Ruby
+* [yetibot](https://github.com/devth/yetibot) - Extreme chatops, where chat ∈ {irc,slack}
+* [lazlo](https://github.com/djosephsen/lazlo) - A chatops automation framework for Slack in Go
+* [gochatbot](https://github.com/ccirello/gochatbot) - Chatops bot in Go
+* [hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management
+* [slash-heroku](https://github.com/atmos/slash-heroku) - /heroku commands for slack
 
 ### Bot Development
 
