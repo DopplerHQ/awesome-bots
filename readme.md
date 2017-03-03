@@ -302,6 +302,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [telegram.bot](https://github.com/MrRoundRobin/telegram.bot) - Telegram Bot API - C# Client
 * [telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go
 * [BootBot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
+* [slack-ruby-bot](https://github.com/slack-ruby/slack-ruby-bot) - A generic Slack bot framework written in Ruby
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
