@@ -251,7 +251,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatteron](http://www.chatteron.io/) - Build Facebook Chat bots in under 5 minutes! The best AI platform for building chat bots
 * [Firebot](https://www.firebot.io/en) - Chatbots for everybody. Build your own Facebook or web chatbot free and without programming
 * [E.D.D.I](http://eddi.labs.ai/) - Enterprise-Ready Chatbot Platform for creating, running and maintaining customizable chatbots
-* [Conversable](http://eddi.labs.ai/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel
+* [Conversable](http://conversable.com/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel
+* [Botsify](https://botsify.com/) - Create artificial intelligent chatbots without coding
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
