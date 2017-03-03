@@ -439,6 +439,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatbots: 100 Successful Business and Brand Bots](http://amzn.to/2hTVrsF) - In this book, we profile 100 of the top bots built on Facebook Messenger, Apple iMessage, Amazon Echo, Kik, Skype, Slack, and WeChat. We feature hundreds of actionable bot strategies that these brands have used to attract, engage and retain users
 * [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/) - A book that explains the types of Alexa skills, how to build them and how to track user behaviour
 * [Designing Conversational Interfaces](http://www.convbook.com/) - A book for designers, developers and founders containing practical guidelines about how to create messaging applications that people will love to use
+* [Bot Theory](https://github.com/dpgailey/bot-theory-book) - A short book about the theory of bots
 
 ### Communities/chats
 * [BotCube channel on Telegram](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
