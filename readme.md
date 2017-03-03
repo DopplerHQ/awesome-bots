@@ -230,6 +230,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Sequel](https://www.onsequel.com/) - Create messenger bots with personality. Engage your fans and followers with intimate conversational experiences. It only takes minutes to build
 * [init.ai](https://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights and Assist sales and support staff in communications
 * [Meya](https://meya.ai/) - Make amazing bots. Build, train and host your bots using one platform
+* [Morph.ai](https://morph.ai/) - Power of chatbots for your business.
 * [Motion.ai](https://www.motion.ai/) - Chatbots made easy. Visually build, train & deploy bots to do just about anything
 * [Dexter](https://rundexter.com/) - Build and power a conversational engine for your brand
 * [HelloStars](https://hellotars.com/) - Create Engaging Conversational Bots. We help you make chatbots to replace webforms – no coding required
