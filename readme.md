@@ -203,6 +203,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [TopBots](http://www.topbots.com/) - We scour the net for the latest content about bots & artificial intelligence. Be the FIRST to know & understand technical breakthroughs that change how we live and work
 * [Chatbot's Life](https://chatbotslife.com/) - Everything you want to know about chatbots
 * [ChatbotNewsDaily](https://chatbotnewsdaily.com/) - An Introduction to Chatbots, Messaging Channels and the History of Artificial Intelligence and Robots
+* [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
 
 ### Job boards
 * [BotCompass](https://botcompass.co) - 🤖 Chatbot companies and developers to power up your business 🤖
