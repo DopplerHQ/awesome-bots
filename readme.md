@@ -31,6 +31,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Bot building platforms](#bot-building-platforms)
 - [Personal assistants](#personal-assistants)
 - [Payment & subscription services](#payment--subscription-services)
+- [ChatOps](#chatops)
 - [Bot Development](#bot-development)
   - [SDKs/Frameworks/Libraries](#sdksframeworkslibraries)
   - [Boilerplates/templates](#boilerplatestemplates)
@@ -270,6 +271,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Paypal](https://developer.paypal.com/) - Accept payments with one of PayPal's robust APIs. Open the door for Apple Pay, Android Pay, Venmo, and whatever's next with Braintree's SDK, or get up and running quickly with a simple checkout button on your site
 * [Stripe](https://stripe.com/) - Stripe is the best software platform for running an internet business. They handle billions of dollars every year for forward-thinking businesses around the world
 * [Braintree](https://www.braintreepayments.com/) - An all-in-one payments partner
+
+### ChatOps
+* [slack-deploy-bot](https://github.com/accessd/slack-deploy-bot) - A Slack bot that helps you to deploy your apps
 
 ### Bot Development
 
