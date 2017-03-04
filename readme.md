@@ -125,6 +125,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ### Tools
 
 #### Analytics
+* [Botimize](http://www.botimize.io/) - Optimize your bot for happier customers, scientifically. Track, test, and action in real time. It's as easy as 1 - 2 - 3
 * [BotMetrics](https://bot-metrics.com/) - Bot & Conversation Analytics
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics. Increase user engagement, acquisition, and monetization through actionable bot analytics. Now supporting Alexa and Google Home
 * [Botanalytics](https://botanalytics.co/) - Make decisions with historical & real time conversation data. We combine real time conversations with historical ones to help answer the toughest questions about engaged, churnable and retained conversations
