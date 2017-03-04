@@ -254,7 +254,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Firebot](https://www.firebot.io/en) - Chatbots for everybody. Build your own Facebook or web chatbot free and without programming
 * [E.D.D.I](http://eddi.labs.ai/) - Enterprise-Ready Chatbot Platform for creating, running and maintaining customizable chatbots
 * [Conversable](http://conversable.com/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel
-* [Botsify](https://botsify.com/) - Create artificial intelligent chatbots without coding
+* [Botsify](https://botsify.com/) - Create artificial intelligent chatbots without codingc
+* [ChattyPeople](http://chattypeople.com/) - Facebook commerce solution with messenger bot, no programming required to build a Facebook bot without coding
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
