@@ -292,6 +292,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 #### SDKs/Frameworks/Libraries
 * [BotPress](https://botpress.io/) - An open-source ecosystem for developers to create, manage and extend bots
 * [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
+* [Bottie](https://github.com/andrew-templeton/bottie) - simple rules based Slackbot with a basic chat based CMS inteface 
 * [Bottr](https://github.com/Bottr-js/Bottr) - The world's simplest framework for creating Bots
 * [Microsoft Bot Framework](https://docs.botframework.com/en-us/downloads/)
 * [Botmaster](http://botmasterai.com/) - A simple chatbot framework for serious projects
