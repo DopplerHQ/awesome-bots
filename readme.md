@@ -256,6 +256,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Conversable](http://conversable.com/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel
 * [Botsify](https://botsify.com/) - Create artificial intelligent chatbots without codingc
 * [ChattyPeople](http://chattypeople.com/) - Facebook commerce solution with messenger bot, no programming required to build a Facebook bot without coding
+* [Fred](https://fredbots.com/) - Fred is an ecosystem with multiple platforms to build transactional channels through messaging
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
