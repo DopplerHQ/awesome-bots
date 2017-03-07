@@ -141,6 +141,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
+* [Messenger demo viewer](https://messenger-demo-viewer.kilianvalkhof.com) - Demo your Messenger bot interaction without showing personal chats
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
