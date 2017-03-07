@@ -156,6 +156,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Convointerface](https://convointerface.com/) - Build Chatbots, Messaging apps, and Conversational forms with easy to use design assets
 * [Walkiebot](https://walkiebot.co/) - Design your bot dialogue. Test copy, add attachments and share with your dev team. Made for humans, readable by Slack
 * [Twinery](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
+* [Messenger demo viewer](https://messenger-demo-viewer.kilianvalkhof.com) - Demo your Messenger bot interaction without showing personal chats
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
