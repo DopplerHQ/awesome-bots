@@ -141,6 +141,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
+* [Hunch](http://hunchinsights.com) - Hunch is your powerful but super simple analytics assistant that constantly monitors your marketing metrics. From answering AARRR  funnel questions to automating your weekly and monthly reporting.
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
