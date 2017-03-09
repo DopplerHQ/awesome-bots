@@ -1,5 +1,7 @@
 # Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+![Botcube awesome bots chatbots](https://botcube.co/public/awesome-bots/wide.png)
+
 > A curated list of bot related resources (both chat and voice bots) by the [Botcube team](https://botcube.co/).
 
 ### Get [five epic actionable bot tricks](https://botcube.co/newsletter) delivered to your email once a week. We're waiting for you! 🤖
