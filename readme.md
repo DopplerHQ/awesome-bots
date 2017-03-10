@@ -171,6 +171,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 #### Internationalization
 * [Cyrano](http://cyrano.unbabel.com/) - Make your bot multilingual. Unbabel's Cyrano API instantly enables your bot to chat in more than 20 languages with human quality
+* [Indie Localizers Team](https://www.indielocalization.com) - Release polyglot bots with our human help. We're a team of localizers, developers, testers, and SEOs that can help you add more languages to your bot
 
 #### Customer service
 * [LiveChat24/7](https://www.livechat24-7.com/) - Discover how our Chatbot supported Live Chat is the easiest and best way to save time and improve customer service
