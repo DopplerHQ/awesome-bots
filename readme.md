@@ -231,7 +231,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### NLP (tools, engines, SDKs, frameworks)
 * [wit.ai](https://wit.ai/) - Natural Language Service for Developers from Facebook
-* [api.ai]() - Conversational User Experience Platform from Google. Build brand-unique, natural language interactions for bots, applications, services, and devices.
+* [api.ai](api.ai) - Conversational User Experience Platform from Google. Build brand-unique, natural language interactions for bots, applications, services, and devices.
 * [h2o.ai](http://www.h2o.ai/) - H2O.ai is a Visionary in the Gartner Magic Quadrant for Data Science Platforms
 * [Amazon Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications. Powered by the same deep learning technologies as Alexa
 * [Rasa NLU](http://rasa.ai/) - Open-source language understanding for bots. A drop-in replacement for popular NLP tools like wit.ai, api.ai or LUIS
