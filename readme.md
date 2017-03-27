@@ -387,6 +387,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Appartika](http://appartika.com/chat-bots/index.html) - Creating chatbots for business-communications
 * [Botego](http://www.botego.com/) - We create smart products that make customers smile
 * [AiChat Pte. Ltd](http://aichat.co) - Empowering Conversational Commerce. Create, manage and train chatbot to engage your audiences
+* [BotFather](http://www.botfather.ai) - Chatbots for brands
 * [Botfuel](http://botfuel.io) - Enterprise-ready chatbots
 * [ChatFirst LLC](http://www.chatfirst.co) - A.I. Virtual Assistants for Your Business
 * [Chatsuite](http://www.chatsuite.com) - We create meaningful dialogues
