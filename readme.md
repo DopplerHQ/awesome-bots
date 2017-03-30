@@ -365,6 +365,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.5swghtinl)
 * [Pair Programming a Facebook Messenger Bot](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+* [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
 
 ### Agencies
 * [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
