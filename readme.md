@@ -171,6 +171,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 * [BotFlair](https://botflair.com/) - Enhance your bot's conversational skills today
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [TestMyBot](https://github.com/codeforequity-at/testmybot) - TestMyBot is a test automation framework for your chatbot project. It is unopinionated and completely agnostic about any involved development tools. Best of all, it�s free and open source.
+
 
 #### Monitoring
 * [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
@@ -409,6 +411,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Turbo.ai](http://turbo.ai) - A bot for your business in minutes.
 * [Voxable](http://www.voxable.io) - Voxable builds conversational and voice interfaces for products
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
+* [CodeForEquity.at](http://www.codeforequity.at/) - Development support (including Chatbots) for startup companies
 
 ### Influencers/People
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
@@ -444,6 +447,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * **Alexander Gamanyuk** - Founder of ChatBottle & BotMakers [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
 * **Dan Gailey** - Founder and CEO of RadBots [Twitter](https://twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
+* **Florian Treml** - Founder of Oktobooks and CodeForEquity.at, creator of TestMyBot (test automation framework for your chatbot project) [Medium](https://medium.com/@floriantreml)
 
 ### Events/Conferences/Meetups
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
