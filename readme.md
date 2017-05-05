@@ -409,6 +409,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Turbo.ai](http://turbo.ai) - A bot for your business in minutes.
 * [Voxable](http://www.voxable.io) - Voxable builds conversational and voice interfaces for products
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
+* [Unibot](http://unibot.ai/) - We create personalized bots for businesses
 
 ### Influencers/People
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
