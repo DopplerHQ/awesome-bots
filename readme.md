@@ -88,9 +88,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Mica, the Hipster Cat Bot](https://hipstercatbot.com) - Mica, the Hipster Cat Bot is a venue recommendation bot that helps you discover the best places worldwide - on FB Messenger, Skype, Kik, Telegram
 
 ### Directories (lists)
+* [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
 * [There is a bot for that](https://thereisabotforthat.com/) - Search engine for bots
 * [BotList](https://botlist.co/) - App Store for bots
-* [ChatBottle](https://chatbottle.co/bots) - Search platform for bots
 * [Microsoft Bot Directory](https://bots.botframework.com/) - Bot Directory from Microsoft
 * [Slack bot directory](https://slack.com/apps)
 * [Intento](https://inten.to/) - Search platform for FB Messenger/Telegram/Viber
@@ -141,7 +141,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [VoiceLabs](http://voicelabs.co/) - Voice analytics for Alexa and Google Assistant, free and live in 10 minutes
 * [Opearlo Analytics](https://analytics.opearlo.com/) - Track the usage of your Alexa Voice Apps
 * [Witlingo](http://www.witlingo.com/) - Witlingo is a full stack Software as a Service product that enables you to continually learn about your conversations. We provide out-of-the-box Analytics that measure how your conversation is performing for your customers
-* [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. People try your bot every day and leave. Get them to come back. Reactivate up to 27% of inactive users and improve retention
+* [ChatMetrics](https://chatmetrics.io/) - Push-notifications platform for bots
 * [Wordhop](https://www.wordhop.io/) - Wordhop enables humans and AI to work together to enhance customer service, drive eCommerce transactions, and keep customers engaged in conversation
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
 
@@ -222,6 +222,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
 
 ### Job boards
+* [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers.
 * [BotCompass](https://botcompass.co) - 🤖 Chatbot companies and developers to power up your business 🤖
 * [Botunity](http://botunity.co/) - Find a job you love in the Bot & AI Industry. Your next opportunity could be with one of these leading companies. Apply today
 * [BotJobs](http://botjobs.io/) - A job board focused on the Bot Industry
@@ -442,7 +443,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * **Seth Louey** - ProductHunt 2016 Maker of the Year Nominee; Co-founder of BotList. [Twitter](https://twitter.com/sethlouey) [Linkedin](https://www.linkedin.com/in/sethlouey/) [ProductHunt](https://www.producthunt.com/@sethlouey) [Medium](https://medium.com/@sethlouey)
 * **Crystal Rose** - Founder of Sensay. [Twitter](https://twitter.com/crystalrose) [Linkedin](https://www.linkedin.com/in/rosecrystal/)
 * **Pavel Doronin** - Founder of AI Today/AI Community - RU/Chatbots Community [Facebook](https://www.facebook.com/pavdor)
-* **Alexander Gamanyuk** - Founder of ChatBottle & BotMakers [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
+* **Alexander Gamanyuk** - Founder of [ChatBottle](https://chatbottle.co/) & [BotMakers](https://botmakers.net/) [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
 * **Dan Gailey** - Founder and CEO of RadBots [Twitter](https://twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
 
