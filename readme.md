@@ -341,7 +341,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [E.D.D.I](http://eddi.labs.ai/) - Enterprise-Ready Chatbot Platform for creating, running and maintaining customizable chatbots (Java)
 * [BotStack](https://github.com/davidmann4/botstack) - Ruby on Rails Framework
 * [crystal telegram bot API](https://github.com/hangyas/TelegramBot) - Telegram Bot API for crystal
-* [Recime](https://www.recime.io/) - A powerful platform for developers to build bots. Recime provieds the bot framework + dev tools + cloud infrastructure.
+* [Recime](https://www.recime.io/) - A powerful platform for developers to build enterprise-grade bots. Recime provides the bot framework, developer tools, and a serverless cloud infrastructure.
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
