@@ -13,7 +13,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Podcasts and episodes](#podcasts-and-episodes)
 - [Popular examples of bots](#popular-examples-of-bots)
 - [Directories (lists)](#directories-lists)
-- [Bot platforms (to build for)](#bot-platforms-to-build-for)
+- [Messaging platforms](#messaging-platforms)
 - [Tools](#tools)
   - [Analytics](#analytics)
   - [Marketing](#marketing)
@@ -100,7 +100,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
 * [Qwazou Bot](https://www.messenger.com/t/Qwazou) - A Messenger Bot that helps you discover new bots on Messenger.
 
-### Bot platforms (to build for)
+### Messaging platforms
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
 * [WeChat](https://admin.wechat.com/)
 * [Skype](https://www.skype.com/en/developer/)
