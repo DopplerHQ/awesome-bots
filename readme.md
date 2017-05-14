@@ -347,6 +347,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
 * [PHP Facebook Messenger chatbot boilerplate](https://github.com/christophrumpel/chatbot-php-boilerplate)
 * [Facebook Messenger wit.ai node.js boilerplate](https://github.com/SimplyTechnologies/messenger-bot-wit-boilerplate)
+* [Web Chatbot Bootsrap Kit in Whatsapp style](https://github.com/AdrianKrebs/chatbot-bootstrap)
 
 #### Tutorials/Guides
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
