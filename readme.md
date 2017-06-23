@@ -171,6 +171,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 * [BotFlair](https://botflair.com/) - Enhance your bot's conversational skills today
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [@GiveChatId_Bot](http://t.me/GiveChatId_Bot) - GiveChatId_Bot to get the chat id in the chat with the command /chatid
 
 #### Monitoring
 * [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
