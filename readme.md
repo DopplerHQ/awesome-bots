@@ -271,6 +271,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatteron](http://www.chatteron.io/) - Build Facebook Chat bots in under 5 minutes! The best AI platform for building chat bots
 * [Firebot](https://www.firebot.io/en) - Chatbots for everybody. Build your own Facebook or web chatbot free and without programming
 * [Conversable](http://conversable.com/) - Conversable is the enterprise conversational intelligence platform for creating intuitive, on-demand, automated experiences on any messaging or voice channel
+* [HemenBot](https://www.hemenbot.com/) - HemenBot is a bot building platform, you can create a messenger bot in a few minutes.
+There is free and paid plans. Interface is Turkish but bots can work any latin languages.
 * [Botsify](https://botsify.com/) - Create artificial intelligent chatbots without codingc
 * [ChattyPeople](http://chattypeople.com/) - Facebook commerce solution with messenger bot, no programming required to build a Facebook bot without coding
 * [Fred](https://fredbots.com/) - Fred is an ecosystem with multiple platforms to build transactional channels through messaging
