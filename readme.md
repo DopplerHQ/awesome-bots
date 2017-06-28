@@ -247,6 +247,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Sequel](https://www.onsequel.com/) - Create messenger bots with personality. Engage your fans and followers with intimate conversational experiences. It only takes minutes to build
 * [init.ai](https://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights and Assist sales and support staff in communications
 * [bothaus.io](http://bothaus.io) - The Chatbot Augmentation Platfom. Build, enrich, deploy & monitor your chatbots and integrate with a range of services.
+* [BotEngine](https://botengine.ai/) - BotEngine is a natural language understanding framework that allows you to create intelligent chat bot for any service that will communicate with customers.
 * [Meya](https://meya.ai/) - Make amazing bots. Build, train and host your bots using one platform
 * [Morph.ai](https://morph.ai/) - Power of chatbots for your business.
 * [Motion.ai](https://www.motion.ai/) - Chatbots made easy. Visually build, train & deploy bots to do just about anything
