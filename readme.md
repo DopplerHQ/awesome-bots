@@ -99,7 +99,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [ProductHunt bot directory](https://www.producthunt.com/topics/bots)
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
 * [Qwazou Bot](https://www.messenger.com/t/Qwazou) - A Messenger Bot that helps you discover new bots on Messenger.
-* [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
 
 ### Messaging platforms
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
@@ -149,6 +148,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
 * [Hunch](http://hunchinsights.com) - Hunch is your powerful but super simple analytics assistant that constantly monitors your marketing metrics. From answering AARRR  funnel questions to automating your weekly and monthly reporting.
+* [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
