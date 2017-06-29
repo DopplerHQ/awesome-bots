@@ -127,6 +127,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * Email
 
 ### Tools
+* [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
 
 #### Analytics
 * [Botimize](http://www.botimize.io/) - Optimize your bot for happier customers, scientifically. Track, test, and action in real time. It's as easy as 1 - 2 - 3
