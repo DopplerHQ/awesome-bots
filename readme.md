@@ -99,6 +99,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [ProductHunt bot directory](https://www.producthunt.com/topics/bots)
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
 * [Qwazou Bot](https://www.messenger.com/t/Qwazou) - A Messenger Bot that helps you discover new bots on Messenger.
+* [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
 
 ### Messaging platforms
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
@@ -127,7 +128,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * Email
 
 ### Tools
-* [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
 
 #### Analytics
 * [Botimize](http://www.botimize.io/) - Optimize your bot for happier customers, scientifically. Track, test, and action in real time. It's as easy as 1 - 2 - 3
