@@ -281,6 +281,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Gupshup](https://www.gupshup.io/) - platform for building and testing bots 
 * [PandortaBots](http://www.pandorabots.com/)
 * [Recime](https://www.recime.io/) - We empower developers to quickly & effectively create serverless bots and deploy them across many channels at once.
+* [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
