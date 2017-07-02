@@ -172,6 +172,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 * [BotFlair](https://botflair.com/) - Enhance your bot's conversational skills today
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [TestMyBot](https://github.com/codeforequity-at/testmybot) - Automated Testing for Chatbots
 
 #### Monitoring
 * [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
