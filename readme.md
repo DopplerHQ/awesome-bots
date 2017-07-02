@@ -172,7 +172,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 * [BotFlair](https://botflair.com/) - Enhance your bot's conversational skills today
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
-* [TestMyBot](https://github.com/codeforequity-at/testmybot) - Automated Testing for Chatbots
 
 #### Monitoring
 * [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
@@ -349,6 +348,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [crystal telegram bot API](https://github.com/hangyas/TelegramBot) - Telegram Bot API for crystal
 * [Recime](https://www.recime.io/) - A powerful platform for developers to build enterprise-grade bots. Recime provides the bot framework, developer tools, and a serverless cloud infrastructure.
 * [PHPFaceBot](https://github.com/bigicoin/phpfacebot) - PHP Facebook Messenger bot framework/starter kit
+* [TestMyBot](https://github.com/codeforequity-at/testmybot) - Automated Testing for Chatbots
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
