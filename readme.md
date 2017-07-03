@@ -144,6 +144,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [ChatMetrics](https://chatmetrics.io/) - Push-notifications platform for bots
 * [Wordhop](https://www.wordhop.io/) - Wordhop enables humans and AI to work together to enhance customer service, drive eCommerce transactions, and keep customers engaged in conversation
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [ChatbotProxy](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
@@ -165,7 +166,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Walkie](https://walkiebot.co/) - Design your bot dialogue. Test copy, add attachments and share with your dev team. Made for humans, readable by Slack
 * [Twinery](https://twinery.org/) - Twine is an open-source tool for telling interactive, nonlinear stories
 * [Messenger demo viewer](https://messenger-demo-viewer.kilianvalkhof.com) - Demo your Messenger bot interaction without showing personal chats
-* [ChatMapper](http://www.chatmapper.com/) - writing and testing non-linear dialogs 
+* [ChatMapper](http://www.chatmapper.com/) - writing and testing non-linear dialogs
 * [Cheap Bots, Done Quick!](http://www.cheapbotsdonequick.com/) - Help you make a Twitterbot! They're easy to make and free to run.
 
 #### Testing
@@ -279,7 +280,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Fred](https://fredbots.com/) - Fred is an ecosystem with multiple platforms to build transactional channels through messaging
 * [ManyBot](https://manybot.io/) - Telegram Bots
 * [Mindiq](https://www.mindiq.in/) - Facebook Bots
-* [Gupshup](https://www.gupshup.io/) - platform for building and testing bots 
+* [Gupshup](https://www.gupshup.io/) - platform for building and testing bots
 * [PandortaBots](http://www.pandorabots.com/)
 * [Recime](https://www.recime.io/) - We empower developers to quickly & effectively create serverless bots and deploy them across many channels at once.
 * [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
@@ -319,7 +320,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 #### SDKs/Frameworks/Libraries
 * [BotPress](https://botpress.io/) - An open-source ecosystem for developers to create, manage and extend bots
 * [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
-* [Bottie](https://github.com/andrew-templeton/bottie) - simple rules based Slackbot with a basic chat based CMS inteface 
+* [Bottie](https://github.com/andrew-templeton/bottie) - simple rules based Slackbot with a basic chat based CMS inteface
 * [Bottr](https://github.com/Bottr-js/Bottr) - The world's simplest framework for creating Bots
 * [Microsoft Bot Framework](https://docs.botframework.com/en-us/downloads/) - SDKs for multi platform bots
 * [Botmaster](http://botmasterai.com/) - A simple chatbot framework for serious projects
