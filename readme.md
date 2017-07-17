@@ -350,6 +350,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Recime](https://www.recime.io/) - A powerful platform for developers to build enterprise-grade bots. Recime provides the bot framework, developer tools, and a serverless cloud infrastructure.
 * [PHPFaceBot](https://github.com/bigicoin/phpfacebot) - PHP Facebook Messenger bot framework/starter kit
 * [TestMyBot](https://github.com/codeforequity-at/testmybot) - Automated Testing for Chatbots
+* [Messaging APIs](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform 
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
