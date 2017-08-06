@@ -360,7 +360,6 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Node Telegram bot boilerplate](https://github.com/txwkx/node-telegram-bot-boilerplate)
 * [Node BotUI + API.AI App Boilerplate](https://github.com/sushantshekhar20/bot_api.ai)
 
-
 #### Tutorials/Guides
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
 * [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
