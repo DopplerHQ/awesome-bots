@@ -154,6 +154,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
 * [waves.ai](https://www.waves.ai/) - Learn, grow & let your goals become reality
+* [cashbot.ai](https://cashbot.ai/?fref=gc) - Monetization platform for chat & voice experiences that leverages the rich context of conversation to make relevant, timely product recommendations which lead directly to sales conversions via mobile & traditional E-Commerce.
 
 #### Prototyping
 * [BotSociety](https://botsociety.io/) - Design your chatbot. The fastest way to create a bot experience preview
