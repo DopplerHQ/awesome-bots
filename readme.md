@@ -222,6 +222,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Chatbot's Life](https://chatbotslife.com/) - Everything you want to know about chatbots
 * [ChatbotNewsDaily](https://chatbotnewsdaily.com/) - An Introduction to Chatbots, Messaging Channels and the History of Artificial Intelligence and Robots
 * [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
+* [Planeta Chatbot](https://planetachatbot.com/?fref=gc) - A chatbot magazine originally created in Spain with the purpose of sharing the latest content about chatbots.
 
 ### Job boards
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers.
