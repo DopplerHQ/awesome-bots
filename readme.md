@@ -499,8 +499,10 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Bot Theory](https://github.com/dpgailey/bot-theory-book) - Bot Theory: A Concise Introduction. Defining the scope, components, architecture and relationships of bots and their environments
 
 ### Communities/chats
+* [Bot Designers, Developers & Marketers](https://www.facebook.com/groups/botdesigners/) - Facebook community where experts share information, tactics and strategies for designing, building, and marketing bots.
 * [BotCube channel on Telegram](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
 * [BotChat on Telegram](https://t.me/botcubechat) - 🤖 Public chat where we discuss different topics about bots, bot development, platforms, news etc. 🤖
+* [Bot Academy](https://www.facebook.com/groups/BotAcademy/) - Facebook community for people interested in bots and Facebook Messenger Marketing.
 * [Bots group - Facebook](https://www.facebook.com/groups/chatbot/) - This is a private group for people interested in learning about and building chat bots
 * [BOTS group - Facebook](https://www.facebook.com/groups/1164551213581286/) - Facebook group about chatbots
 * [Chatbots News](http://news.chatbotsmagazine.com/login) - An intelligent, supportive, and collaborative community for chatbot developers, designers, creators, and enthusiasts. Moderated by the Chatbots Magazine team
