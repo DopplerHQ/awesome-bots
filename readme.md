@@ -388,6 +388,10 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 * [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
 
+### Useful articles
+* [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel/?fref=gc) - ManyChat vs Chatfuel in-depth review & comparison.
+* [Revenue models for bots and chatbots](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07) - In this article Amir Shevat from Slack has reviewed the direct and indirect ways that bots can drive revenue to a business.
+
 ### Agencies
 * [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
 * [Letzgro](http://letzgro.net/) - With development team in Ukraine and availability throughout time zones, Letzgro gets hired for most critical web, mobile, video streaming and AI projects
@@ -451,7 +455,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Pavel Durov** - Founder, CEO at Telegram; Founder, ex-CEO of VK. [Twitter](https://twitter.com/durov) [Instagram](https://www.instagram.com/durov/?hl=en) [Facebook](https://www.facebook.com/durov)
 * **Dmitry Matskevich** - Co-Founder of Icon8. [ProductHunt](https://www.producthunt.com/@dmitry_matskevich) [Twitter](https://twitter.com/matskevich?lang=en) [Linkedin](https://www.linkedin.com/in/mdima/)
 * **Mikhail Naumov** - Co-Founder & President of DigitalGenius. [Linkedin](https://www.linkedin.com/in/mikhailnaumov/) [Twitter](https://twitter.com/mikhailnaumov?lang=en) [Facebook](https://www.facebook.com/mikhail.naumov)
-* **Artyom Keydunov** - ‎Co-Founder & CEO at Statsbot. [Linkedin](https://www.linkedin.com/in/keydunov/) [Linkedin](https://twitter.com/keydunov?lang=en) [Medium](https://medium.com/@keydunov) [Facebook](https://www.facebook.com/artkey)
+* **Artyom Keydunov** - Co-Founder & CEO at Statsbot. [Linkedin](https://www.linkedin.com/in/keydunov/) [Linkedin](https://twitter.com/keydunov?lang=en) [Medium](https://medium.com/@keydunov) [Facebook](https://www.facebook.com/artkey)
 * **David Pichsenmeister** - Co-founder of oratio; Organizer of ChatbotConf and BotsHackathon. [Medium](https://medium.com/@3x14159265) [ProductHunt](https://www.producthunt.com/@3x14159265) [Twitter](https://twitter.com/3x14159265)
 * **Mike Gozzo** - Co-Founder of Smooch [Twitter](https://twitter.com/gozmike) [Linkedin](https://www.linkedin.com/in/mgozzo/) [ProductHunt](https://www.producthunt.com/@gozmike) [Medium](https://medium.com/@gozmike)
 * **Mikhail Larinov** - Head of Platform at Facebook Messenger. [Facebook](https://www.facebook.com/mikhail99) [Twitter](https://twitter.com/vernon99) [Linkedin](https://www.linkedin.com/in/mikhail-larionov-7601a510/)
