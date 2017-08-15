@@ -150,6 +150,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
 * [Hunch](http://hunchinsights.com) - Hunch is your powerful but super simple analytics assistant that constantly monitors your marketing metrics. From answering AARRR  funnel questions to automating your weekly and monthly reporting.
 * [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
+* [Messengerify](https://messengerify.me/) - Messengerify will connect the website with your Facebook Page and provide a better chat experience for your customers. Even if visitor leaves your website the conversation can continue via Messenger.
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
