@@ -287,6 +287,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Recime](https://www.recime.io/) - We empower developers to quickly & effectively create serverless bots and deploy them across many channels at once.
 * [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
 * [Coren](https://heycoren.com/?fref=gc) - Coren allows both businesses and individuals to easily build & use chatbots to automate repetitive tasks, in an innovative way.
+* [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
