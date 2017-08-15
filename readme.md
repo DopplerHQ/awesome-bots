@@ -390,8 +390,10 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
 
 ### Useful articles
-* [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel/?fref=gc) - ManyChat vs Chatfuel in-depth review & comparison.
+* [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel) - ManyChat vs Chatfuel in-depth review & comparison.
 * [Revenue models for bots and chatbots](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07) - In this article Amir Shevat from Slack has reviewed the direct and indirect ways that bots can drive revenue to a business.
+* [How to Build a Basic Messenger Bot with ManyChat](https://www.thinktuitive.com/how-to-build-a-messenger-bot-with-manychat/)
+* [How to Build a Basic Messenger Bot with Chatfuel](https://www.thinktuitive.com/how-to-build-a-messenger-bot-with-chatfuel/)
 
 ### Agencies
 * [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
