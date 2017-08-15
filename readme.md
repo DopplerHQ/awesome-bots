@@ -234,6 +234,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Botified](https://botified.io/) - Hire Quality Bot Developers And Find Bot Jobs
 * [ChatbotJobs](https://chatbotjobs.co/) - Find the remote or onsite job related to bots, AI, NLP, machine learning, data, neural networks
 * [BotGig](http://www.botgig.com/) - Hire a top-tier development team to build your chatbot
+* [BotMakers Projects](https://www.facebook.com/groups/439131813146973) - A Facebook group with Chatbot Development projects curated by BotMakers.
 
 ### NLP (tools, engines, SDKs, frameworks)
 * [wit.ai](https://wit.ai/) - Natural Language Service for Developers from Facebook
