@@ -437,7 +437,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Voxable](http://www.voxable.io) - Voxable builds conversational and voice interfaces for products
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
 * [Unibot](http://unibot.ai/) - We create personalized bots for businesses
-
+* [BotCopy](https://www.botcopy.com/) - A bot writing and design agency based in sunny LA.
 ### Influencers/People
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
 * **Oren Jacob** - Founder and CEO, PullString. [Twitter](https://twitter.com/orenjacob) [Medium](https://medium.com/@orenjacob) [Facebook](https://facebook.com/748835990)
