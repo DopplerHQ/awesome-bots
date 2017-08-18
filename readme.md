@@ -119,10 +119,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Discord](https://discordapp.com/developers/docs/intro)
 * [Amazon Alexa](https://developer.amazon.com/alexa)
 * [Google Home/Google Assistant](https://developers.google.com/actions/)
-* [Broid](https://broid.ai)
 * Web
   * [Smooch](https://smooch.io/)
-  * [Broid](https://broid.ai)
 * SMS
   * [Twilio](https://www.twilio.com/sms)
   * [Sinch](https://www.sinch.com/products/sms-api/)
