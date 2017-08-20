@@ -290,6 +290,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
 * [Coren](https://heycoren.com/?fref=gc) - Coren allows both businesses and individuals to easily build & use chatbots to automate repetitive tasks, in an innovative way.
 * [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
+* [Broid](https://broid.ai) - Broid’s API enables bots & softwares to converse on more than 20 top messaging channels, including an interactive live chat (web & apps) powered by the best conversational features available. No more doc reading, coding and testing, leverage new channels with the flip of a switch on your dashboard.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
@@ -356,7 +357,11 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Recime](https://www.recime.io/) - A powerful platform for developers to build enterprise-grade bots. Recime provides the bot framework, developer tools, and a serverless cloud infrastructure.
 * [PHPFaceBot](https://github.com/bigicoin/phpfacebot) - PHP Facebook Messenger bot framework/starter kit
 * [TestMyBot](https://github.com/codeforequity-at/testmybot) - Automated Testing for Chatbots
-* [Messaging APIs](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform 
+* [Messaging APIs](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
+* [Broid Integrations](https://github.com/broidHQ/integrations) - Open Source version of Broid's API to converse on 20 top messaging channels with one single integration
+* [Broid for Botpress](https://github.com/broidHQ/broid-kit-botpress) - Broid Kit Middleware for Botpress
+* [Broid Kit](https://github.com/broidHQ/broid-kit) - Bot framework powered by Broid
+
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
@@ -389,6 +394,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Pair Programming a Facebook Messenger Bot](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 * [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
+* [How to integrate a Dozen Messaging Platforms in 5 Minutes](https://medium.com/broid/integrate-a-dozen-messaging-platforms-in-5-minutes-4d77ee48f4c3)
 
 ### Useful articles
 * [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel) - ManyChat vs Chatfuel in-depth review & comparison.
@@ -472,6 +478,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Alexander Gamanyuk** - Founder of [ChatBottle](https://chatbottle.co/) & [BotMakers](https://botmakers.net/) [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
 * **Dan Gailey** - Founder and CEO of RadBots [Twitter](https://twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
+* **Issam Hakimi** - Founder and CEO of Broid [Twitter](https://twitter.com/killix) [ProductHunt](https://www.producthunt.com/@killix) [Linkedin](https://www.linkedin.com/in/issamhakimi)
 
 ### Events/Conferences/Meetups
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
@@ -518,6 +525,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [UX for Bots](https://www.facebook.com/groups/uxforbots/) - Build together the best experience for bots!  Share the best resources, discuss about UX & bots
 * [HHBots](https://www.facebook.com/groups/hhbots/) - This group was created to provide a place for people to talk about their favorite facebook bots, slack bots, or any kind of bots!
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - This is a forum for developers building on the Messenger platform to interact with the Messenger team and other developers
+* [Botmakers](https://botmakers.slack.com) - Slack community for bot enthousiasts, developers & marketers
 
 ### License
 
