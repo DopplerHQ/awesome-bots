@@ -2,7 +2,7 @@
 
 ![Botcube awesome bots chatbots](https://botcube.co/public/awesome-bots/wide.png)
 
-> A curated list of bot related resources (both chat and voice bots) by the [BotCube team](https://botcube.co/).
+> Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 ### We also run one of the most active Facebook communities (400+ members) and Telegram channel (1,450+ members) about bots.
 
@@ -11,8 +11,6 @@ You can request access here:
 1. Facebook group (information, tactics and strategies for designing, building, and marketing bots): https://www.facebook.com/groups/botdesigners/
 
 2. Telegram channel (hot industry news & insights): https://t.me/botcube
-
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 ## Table of Contents
 - [Newsletters](#newsletters)
