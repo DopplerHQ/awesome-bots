@@ -155,6 +155,7 @@ You can request access here:
 * [Hunch](http://hunchinsights.com) - Hunch is your powerful but super simple analytics assistant that constantly monitors your marketing metrics. From answering AARRR  funnel questions to automating your weekly and monthly reporting.
 * [Boim](https://bo.im) - Bo.im is gateway to all your channels. It can link to all of your bots, contact info, locations, websites, and much more, while behaving according to where it was clicked on.
 * [Messengerify](https://messengerify.me/) - Messengerify will connect the website with your Facebook Page and provide a better chat experience for your customers. Even if visitor leaves your website the conversation can continue via Messenger.
+* [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
@@ -295,6 +296,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Coren](https://heycoren.com/?fref=gc) - Coren allows both businesses and individuals to easily build & use chatbots to automate repetitive tasks, in an innovative way.
 * [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
 * [Broid](https://broid.ai) - Broid’s API enables bots & softwares to converse on more than 20 top messaging channels, including an interactive live chat (web & apps) powered by the best conversational features available. No more doc reading, coding and testing, leverage new channels with the flip of a switch on your dashboard.
+* [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
