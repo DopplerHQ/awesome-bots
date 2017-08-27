@@ -178,7 +178,6 @@ You can request access here:
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
-* [BotFlair](https://botflair.com/) - Enhance your bot's conversational skills today
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
 
 #### Monitoring
