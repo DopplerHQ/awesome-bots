@@ -175,6 +175,7 @@ You can request access here:
 * [Messenger demo viewer](https://messenger-demo-viewer.kilianvalkhof.com) - Demo your Messenger bot interaction without showing personal chats
 * [ChatMapper](http://www.chatmapper.com/) - writing and testing non-linear dialogs
 * [Cheap Bots, Done Quick!](http://www.cheapbotsdonequick.com/) - Help you make a Twitterbot! They're easy to make and free to run.
+* [BotMockup for Telegram](http://mockuprobot.voltsoft.ru/) - Superfast mockup-tool for Telegram bots! Totaly free. Construct and send messages to the sample bot and make screenshots.
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
