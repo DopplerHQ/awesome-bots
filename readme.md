@@ -367,6 +367,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Broid Integrations](https://github.com/broidHQ/integrations) - Open Source version of Broid's API to converse on 20 top messaging channels with one single integration
 * [Broid for Botpress](https://github.com/broidHQ/broid-kit-botpress) - Broid Kit Middleware for Botpress
 * [Broid Kit](https://github.com/broidHQ/broid-kit) - Bot framework powered by Broid
+* [YveBot](https://github.com/andersonba/yve-bot) - The simplest way to build a smart and customized rule-based bot conversation. For Browser & Node.
 
 
 #### Boilerplates/templates
