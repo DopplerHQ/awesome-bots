@@ -90,6 +90,7 @@ You can request access here:
 * [Visabot](https://www.messenger.com/t/visabot/) - Visabot for Facebook Messenger is an immigration attorney 2.0 Inspired by U.S. top immigration lawyers to deliver the results no lawyer can match
 * [Hipmunk](https://www.messenger.com/t/hipmunk/) - Hipmunk chatbot for Facebook Messenger is a super-powered Hipmunk who digs through tons of travel options to help you find the best flights and hotels
 * [Mica, the Hipster Cat Bot](https://hipstercatbot.com) - Mica, the Hipster Cat Bot is a venue recommendation bot that helps you discover the best places worldwide - on FB Messenger, Skype, Kik, Telegram
+* [Nikabot](https://www.nikabot.com) - A Slack bot that keeps track of what your team is doing so you don't have to 
 
 ### Directories (lists)
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
