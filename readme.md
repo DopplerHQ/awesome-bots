@@ -67,6 +67,7 @@ You can request access here:
 * [Technically Sentient](https://inside.com/technically-sentient) - Bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology
 * [Locutius](http://tinyletter.com/locutius) - Locutius starts your week with with everything you need to know about the design and business of conversational systems, from voice to chatbots, plus the machine intelligence that powers it all
 * [UX for Bots](http://tumblr.us10.list-manage.com/subscribe?u=abc28827ca1442d42b7900c42&id=581301db03) - A monthly recap of the best content shared on the UX for Bots Facebook group in your inbox
+* [Chatbots weekly digest](http://www.chatbotsdigest.com/) - A weekly digest of chatbot and AI related news
 
 ### Podcasts and episodes
 * [O'Reilly Bots Podcast](https://www.oreilly.com/topics/oreilly-bots-podcast) - The O'Reilly Bots Podcast covers advances in conversational user interfaces, artificial intelligence, and messaging that are revolutionizing the way we interact with software
