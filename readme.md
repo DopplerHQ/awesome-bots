@@ -183,6 +183,7 @@ You can request access here:
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [Chatbottest](http://chatbottest.com/) - ChatbotTest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 
 #### Monitoring
 * [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
@@ -233,6 +234,7 @@ You can request access here:
 * [ChatbotNewsDaily](https://chatbotnewsdaily.com/) - An Introduction to Chatbots, Messaging Channels and the History of Artificial Intelligence and Robots
 * [Bot Stash](http://www.botsfloor.com/botstash/) - A curated directory of chat bot resources & tools
 * [Planeta Chatbot](https://planetachatbot.com/?fref=gc) - A chatbot magazine originally created in Spain with the purpose of sharing the latest content about chatbots.
+* [UX of Chatbots](http://uxofchatbots.com/) - A curated list of resources to help you on your journey into the User Experience of Chatbots.
 
 ### Job boards
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers.
@@ -411,6 +413,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Revenue models for bots and chatbots](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07) - In this article Amir Shevat from Slack has reviewed the direct and indirect ways that bots can drive revenue to a business.
 * [How to Build a Basic Messenger Bot with ManyChat](https://www.thinktuitive.com/how-to-build-a-messenger-bot-with-manychat/)
 * [How to Build a Basic Messenger Bot with Chatfuel](https://www.thinktuitive.com/how-to-build-a-messenger-bot-with-chatfuel/)
+* [Design Framework For Chatbots](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3)
 
 ### Agencies
 * [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
@@ -490,6 +493,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Dan Gailey** - Founder and CEO of RadBots [Twitter](https://twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
 * **Issam Hakimi** - Founder and CEO of Broid [Twitter](https://twitter.com/killix) [ProductHunt](https://www.producthunt.com/@killix) [Linkedin](https://www.linkedin.com/in/issamhakimi)
+* **Jesús Martín** - Co-Founder of ChatbotTest [Twitter](https://twitter.com/chus9000) [ProductHunt](https://www.producthunt.com/@jesusmartin) [Linkedin](https://www.linkedin.com/in/jesusmartinjimenez/)
 
 ### Events/Conferences/Meetups
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
