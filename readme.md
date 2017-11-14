@@ -259,6 +259,7 @@ You can request access here:
 ### Bot building platforms
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
 * [PullString](https://www.pullstring.com) - Offers a professional authoring environment, hosted AI and machine learning runtime, and integrated conversation analytics to enterprises, agencies, and startups across verticals as diverse as entertainment, customer service, travel, automotive, health and fitness, finance, human resources, and IoT.
+* [BLiP](http://blip.ai/en/) - BLiP helps you serve, engage and sell through conversations on your site and app, Facebook Messenger, Workplace, SMS, Email, Telegram, Twitter, Skype and other popular apps. All you need to create, manage and evolve your chatbot on the same platform.
 * [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding. Launch a full-featured chatbot in 7 minutes
 * [Sequel](https://www.onsequel.com/) - Create messenger bots with personality. Engage your fans and followers with intimate conversational experiences. It only takes minutes to build
 * [init.ai](https://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights and Assist sales and support staff in communications
