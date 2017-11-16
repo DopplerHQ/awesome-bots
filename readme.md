@@ -4,7 +4,7 @@
 
 > Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-### We also run one of the most active Facebook communities (400+ members) and Telegram channel (1,450+ members) about bots.
+### We also run one of the most active Facebook communities (900+ members) and Telegram channel (1,500+ members) about bots.
 
 You can request access here:
 
@@ -13,6 +13,7 @@ You can request access here:
 2. Telegram channel (hot industry news & insights): https://t.me/botcube
 
 ## Table of Contents
+- [Voice bots](#voice-bots)
 - [Newsletters](#newsletters)
 - [Podcasts and episodes](#podcasts-and-episodes)
 - [Popular examples of bots](#popular-examples-of-bots)
@@ -50,6 +51,9 @@ You can request access here:
 - [Communities/chats](#communitieschats)
 
 ## Contents
+
+### Voice bots
+* [Storyline](https://thestoryline.io) - Create voice apps without coding via visual interface and ready-to-use templates.
 
 ### Newsletters
 * [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
@@ -418,7 +422,6 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Design Framework For Chatbots](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3)
 
 ### Agencies
-* [BotCube](https://botcube.co/) - 🤖 We help companies create great chatbots. We believe that in 3-5 years messaging apps will be the main distribution channels for businesses, and every company should have a bot to stay connected with their customers 🤖
 * [Chatbot Developers on BotMakers](https://botmakers.net/chatbot-developers) - 157 (and counting) chatbot development agencies from the [United States](https://botmakers.net/chatbot-developers/in/usa), [Ukraine](https://botmakers.net/chatbot-developers/in/ukraine), [Canada](https://botmakers.net/chatbot-developers/in/canada), [UK](https://botmakers.net/chatbot-developers/in/uk), [Brazil](https://botmakers.net/chatbot-developers/in/brazil), [India](https://botmakers.net/chatbot-developers/in/india), [Germany](https://botmakers.net/chatbot-developers/in/germany), [Israel](https://botmakers.net/chatbot-developers/in/israel), [France](https://botmakers.net/chatbot-developers/in/france), [Belarus](https://botmakers.net/chatbot-developers/in/belarus), [Italy](https://botmakers.net/chatbot-developers/in/italy), [Austria](https://botmakers.net/chatbot-developers/in/austria) and other countries.
 * [Letzgro](http://letzgro.net/) - With development team in Ukraine and availability throughout time zones, Letzgro gets hired for most critical web, mobile, video streaming and AI projects
 * [Xbots](http://xbots.ai/) - Xbots provides chatbot and conversational AI solutions for your business, personalizing the customer experience
