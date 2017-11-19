@@ -464,6 +464,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [BotSupply](http://botsupply.co/) - We Create Bots for Brands and Agencies
 * [Unibot](http://unibot.ai/) - We create personalized bots for businesses
 * [BotCopy](https://www.botcopy.com/) - A bot writing and design agency based in sunny LA.
+
 ### Influencers/People
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
 * **Oren Jacob** - Founder and CEO, PullString. [Twitter](https://twitter.com/orenjacob) [Medium](https://medium.com/@orenjacob) [Facebook](https://facebook.com/748835990)
@@ -500,6 +501,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
 * **Issam Hakimi** - Founder and CEO of Broid [Twitter](https://twitter.com/killix) [ProductHunt](https://www.producthunt.com/@killix) [Linkedin](https://www.linkedin.com/in/issamhakimi)
 * **Jesús Martín** - Co-Founder of ChatbotTest [Twitter](https://twitter.com/chus9000) [ProductHunt](https://www.producthunt.com/@jesusmartin) [Linkedin](https://www.linkedin.com/in/jesusmartinjimenez/)
+* **Audrey Wu** - Co-Founder and CEO at CONVRG. Worked at imperson, the company behind AI chatbots such as Miss Piggy, Zootopia (Judy Hopps) and Doc Brown from Back to the Future. [Twitter](https://twitter.com/mraudreywu) [Linkedin](https://www.linkedin.com/in/audreyellenwu/) [Facebook](https://www.facebook.com/mraudreywu)
 
 ### Events/Conferences/Meetups
 * [Chatbot Summit](https://www.chatbotsummit.com/) - Chatbot Summit Berlin is the second international Chatbot Summit destined to bring together the leading players of the newly formed Chatbot economy
