@@ -307,7 +307,8 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
 * [Broid](https://broid.ai) - Broid’s API enables bots & softwares to converse on more than 20 top messaging channels, including an interactive live chat (web & apps) powered by the best conversational features available. No more doc reading, coding and testing, leverage new channels with the flip of a switch on your dashboard.
 * [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
-* [BOTNATION AI](https://botnation.ai) - Bot building platform for engaging voice and text-based conversational apps.
+* [BotNation AI](https://botnation.ai) - Bot building platform for engaging voice and text-based conversational apps.
+* [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
