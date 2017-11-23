@@ -381,6 +381,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Broid Kit](https://github.com/broidHQ/broid-kit) - Bot framework powered by Broid
 * [YveBot](https://github.com/andersonba/yve-bot) - The simplest way to build a smart and customized rule-based bot conversation. For Browser & Node.
 * [Bottender](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
+* [Botomatic](https://botomatic.io/) - PHP Framework for building Messenger Chatbots 
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
