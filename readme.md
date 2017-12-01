@@ -49,6 +49,7 @@ You can request access here:
 - [Fundraising (accelerators, camps, capitals, funds)](#fundraising-accelerators-camps-capitals-funds)
 - [Books](#books)
 - [Communities/chats](#communitieschats)
+- [Video Tutorials](#video-tutorials)
 
 ## Contents
 
@@ -550,6 +551,14 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [HHBots](https://www.facebook.com/groups/hhbots/) - This group was created to provide a place for people to talk about their favorite facebook bots, slack bots, or any kind of bots!
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - This is a forum for developers building on the Messenger platform to interact with the Messenger team and other developers
 * [Botmakers](https://botmakers.slack.com) - Slack community for bot enthousiasts, developers & marketers
+
+
+### Video Tutorials
+* [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) -Build smooth voice-activated apps for Echo and other Alexa-aware devices. 
+* [Build Incredible Chatbots](https://www.udemy.com/build-incredible-chatbots/?siteID=Fh5UMknfYAU-gy71h1TJa1rrvII1WfvRiA&LSNPUBID=Fh5UMknfYAU) - The most comprehensive and complete bot developer course. Build & deploy chat bots for fun, business, and enterprise.
+* [Creating Bots in the Microsoft Bot Framework Using C#](https://mva.microsoft.com/en-us/training-courses/creating-bots-in-the-microsoft-bot-framework-using-c-17590?l=02bOQBlqD_2600115881) - Get started creating your first bot with a built-in template. Watch helpful demos to learn about the many ways of communicating with the user, beyond just text, that Microsoft Bot Framework includes. 
+
+
 
 ### License
 
