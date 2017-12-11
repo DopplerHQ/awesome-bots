@@ -111,6 +111,7 @@ You can request access here:
 * [Qwazou Bot](https://www.messenger.com/t/Qwazou) - A Messenger Bot that helps you discover new bots on Messenger.
 
 ### Messaging platforms
+* [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
 * [WeChat](https://admin.wechat.com/)
 * [Skype](https://www.skype.com/en/developer/)
