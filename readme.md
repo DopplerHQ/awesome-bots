@@ -309,6 +309,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
 * [BotNation AI](https://botnation.ai) - Bot building platform for engaging voice and text-based conversational apps.
 * [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
+* [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
