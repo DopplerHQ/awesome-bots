@@ -447,7 +447,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Botego](http://www.botego.com/) - We create smart products that make customers smile
 * [AiChat Pte. Ltd](http://aichat.co) - Empowering Conversational Commerce. Create, manage and train chatbot to engage your audiences
 * [BotFather](http://www.botfather.ai) - Chatbots for brands
-* [Botfuel](http://botfuel.io) - Enterprise-ready chatbots
+* [Botfuel](https://www.botfuel.io) - Enterprise-ready chatbots
 * [ChatFirst LLC](http://www.chatfirst.co) - A.I. Virtual Assistants for Your Business
 * [Chatsuite](http://www.chatsuite.com) - We create meaningful dialogues
 * [Conversalab](http://conversalab.com)
