@@ -64,7 +64,7 @@ You can request access here:
 * [The Messenger](http://orat.us3.list-manage.com/subscribe?u=bc7bf59bacb552868cc103361&id=e906a9ad0a) - A personally curated selection- featuring mobile messengers, chatbots and industry experts
 * [Bot! zine](https://botzine.org/) - An online newsletter for #botmakers and bot enthusiasts. Bots, chat bots, art bots, NLP, chat interfaces, machine learning, AI, latest tutorials and resources, interviews and upcoming events
 * [Topbots](http://www.topbots.com/) - Make sure you're in-the-know about important news, breakthroughs, and applications of artificial intelligence and bots. TOPBOTS is your ultimate guide to exponential technologies
-* [Chatbots weekly digest](http://www.chatbotsdigest.com/) - The Web's best digest on Chatbots & AI, by http://botfuel.io
+* [Chatbots weekly digest](http://www.chatbotsdigest.com/) - The Web's best digest on Chatbots & AI, by https://www.botfuel.io
 * [BotBeat](http://venturebeat.com/newsletters/) - VentureBeat Newsletters. Connecting the dots: AI, messaging and bots
 * [Hearing Voices](https://www.getrevue.co/profile/hearingvoices) - This week's news about voice computing apps, delivered directly to your inbox
 * [Alexa News](https://developer.amazon.com/alexa-skills-kit/alexa-developer-newsletter-subscription) - Provide your email address to stay up to date with the latest Amazon Alexa news and IoT and voice industry trends
