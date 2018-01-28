@@ -1,6 +1,6 @@
 # Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-![Botcube awesome bots chatbots](https://botcube.co/public/awesome-bots/wide.png)
+![Botcube awesome bots chatbots](banner.png)
 
 > Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
