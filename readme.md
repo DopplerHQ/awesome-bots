@@ -542,6 +542,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [How to Build your First Amazon Alexa Skill](http://www.rocketinsights.com/work/alexa/) - A book that explains the types of Alexa skills, how to build them and how to track user behaviour
 * [Designing Conversational Interfaces](http://www.convbook.com/) - A book for designers, developers and founders containing practical guidelines about how to create messaging applications that people will love to use
 * [Bot Theory](https://github.com/dpgailey/bot-theory-book) - Bot Theory: A Concise Introduction. Defining the scope, components, architecture and relationships of bots and their environments
+* [Building Chatbots with Microsoft Bot Framework and Node.js](https://www.manning.com/books/building-chatbots-with-microsoft-bot-framework-and-nodejs) - A book that provides a Step-by-Step guide to building chatbots using the Microsoft Bot Framework and Node.js. The book also discusses the underlying architecture and design principles for building chatbots.
 
 ### Communities/chats
 * [Bot Designers, Developers & Marketers](https://www.facebook.com/groups/botdesigners/) - Facebook community where experts share information, tactics and strategies for designing, building, and marketing bots.
