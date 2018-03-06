@@ -45,7 +45,7 @@ You can request access here:
   - [Tutorials/guides](#tutorialsguides)
 - [Agencies](#agencies)
 - [Influencers/People](#influencerspeople)
-- [Events](#events)
+- [Events](#eventsconferencesmeetups)
 - [Fundraising (accelerators, camps, capitals, funds)](#fundraising-accelerators-camps-capitals-funds)
 - [Books](#books)
 - [Communities/chats](#communitieschats)
