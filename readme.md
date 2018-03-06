@@ -312,6 +312,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [BotNation AI](https://botnation.ai) - Bot building platform for engaging voice and text-based conversational apps.
 * [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
 * [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
+* [eXvisory](https://exvisory.ai) - Visual framework for creating 'deep logic' product support AI chatbots able to match the BEST human troubleshooters
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
