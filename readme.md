@@ -157,6 +157,7 @@ You can request access here:
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
 * [ChatbotProxy](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
 * [Botmeter](https://www.botfuel.io/features/botmeter) - Follow performance, optimize conversations and understand your customers' behaviors through our analytics application.
+* [Chatbase](https://chatbase.com) - Analyse and optimize bot conversations. Visualize interaction flow, explore chat conversations, analyze retention and track convertions. 
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
