@@ -389,6 +389,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Botomatic](https://botomatic.io/) - PHP Framework for building Messenger Chatbots 
 * [Botfuel Dialog](https://github.com/Botfuel/botfuel-dialog) - Open Source Node.js SDK for building highly conversational chatbots
 * [Telegram-Typings](https://www.npmjs.com/package/telegram-typings) - A tool for parsing Telegram API page to the typings.
+* [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
