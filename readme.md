@@ -158,7 +158,6 @@ You can request access here:
 * [ChatbotProxy](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
 * [Botmeter](https://www.botfuel.io/features/botmeter) - Follow performance, optimize conversations and understand your customers' behaviors through our analytics application.
 * [Chatbase](https://chatbase.com) - Analyse and optimize bot conversations. Visualize interaction flow, explore chat conversations, analyze retention and track convertions. 
-* [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 
 #### Marketing
 * [bCRM](https://bcrm.com/) - CRM for Marketers and Customer Support Staff in the chatbot world
@@ -390,6 +389,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Botomatic](https://botomatic.io/) - PHP Framework for building Messenger Chatbots 
 * [Botfuel Dialog](https://github.com/Botfuel/botfuel-dialog) - Open Source Node.js SDK for building highly conversational chatbots
 * [Telegram-Typings](https://www.npmjs.com/package/telegram-typings) - A tool for parsing Telegram API page to the typings.
+* [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
