@@ -54,7 +54,7 @@ You can request access here:
 ## Contents
 
 ### Voice bots
-* [Storyline](https://thestoryline.io) - Create voice apps without coding via visual interface and ready-to-use templates.
+* [Storyline](https://getstoryline.com) - Create voice apps without coding via visual interface and ready-to-use templates.
 
 ### Newsletters
 * [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
