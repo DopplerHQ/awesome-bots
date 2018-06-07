@@ -56,6 +56,7 @@ You can request access here:
 ### Voice bots
 * [Storyline](https://getstoryline.com) - Create voice apps without coding via visual interface and ready-to-use templates.
 * [BotTalk](https://bottalk.de) - Create voice apps for Amazon Alexa and Google Assistant with simple Yaml Markup.
+
 ### Newsletters
 * [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
 * [Bot Weekly](http://botweekly.com/) - Bot Weekly is a weekly round up of the most interesting chatbot and AI news
