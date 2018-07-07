@@ -399,7 +399,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Web Chatbot Bootsrap Kit in Whatsapp style](https://github.com/AdrianKrebs/chatbot-bootstrap)
 * [Node Telegram bot boilerplate](https://github.com/txwkx/node-telegram-bot-boilerplate)
 * [Node BotUI + API.AI App Boilerplate](https://github.com/sushantshekhar20/bot_api.ai)
-* [Node Telegraf.js Bot Template (async/knex/dotenv/eslint)](https://github.com/Piterden/template-bot)
+* [Node Telegraf.js Bot Template (async/knex/dotenv/eslint/sao)](https://github.com/Piterden/template-bot)
 
 #### Tutorials/Guides
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
