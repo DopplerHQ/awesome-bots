@@ -391,6 +391,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Telegram-Typings](https://www.npmjs.com/package/telegram-typings) - A tool for parsing Telegram API page to the typings.
 * [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 * [Probot](https://probot.github.io/) - SDK for building bots around GitHub workflows
+* [Go-sarah](https://github.com/oklahomer/go-sarah/)
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
