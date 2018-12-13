@@ -424,7 +424,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Facebook Chatbot Tutorial](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 * [How To Create a Telegram Bot Using Python](https://khashtamov.com/2017/02/how-to-create-a-telegram-bot-using-python/)
 * [How to integrate a Dozen Messaging Platforms in 5 Minutes](https://medium.com/broid/integrate-a-dozen-messaging-platforms-in-5-minutes-4d77ee48f4c3)
-
+* [Creating a simple (echo) bot in Go](https://chatbotslife.com/building-a-simple-echo-bot-in-go-part-1-5de347bdf2b0)
 ### Useful articles
 * [Comparison: ManyChat vs Chatfuel](https://www.thinktuitive.com/comparison-manychat-vs-chatfuel) - ManyChat vs Chatfuel in-depth review & comparison.
 * [Revenue models for bots and chatbots](https://chatbotslife.com/revenue-models-for-bots-and-chatbots-702ca78a1b07) - In this article Amir Shevat from Slack has reviewed the direct and indirect ways that bots can drive revenue to a business.
