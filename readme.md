@@ -549,6 +549,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Building Chatbots with Microsoft Bot Framework and Node.js](https://www.manning.com/books/building-chatbots-with-microsoft-bot-framework-and-nodejs) - A book that provides a Step-by-Step guide to building chatbots using the Microsoft Bot Framework and Node.js. The book also discusses the underlying architecture and design principles for building chatbots.
 * [Building a Chatbot with Laravel and BotMan](https://laravel-news.com/chatbot) - "Building a Chatbot with Laravel and Botman" is a hands on guide to building your own personal chatbot. You'll learn how to onboard new users, allow them to access your latest articles, push out new articles in real-time and respond to small talk.
 [Voice-First Development](https://www.manning.com/books/voice-first-development) - In this insightful guide, you’ll get a solid foundation in modern voice technologies and also get your feet wet writing your first speech interaction apps and more.
+[Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant) - Reading this book you'll learn how to build your own "skills"—the voice app term for actions the device can perform—from scratch. After an overview of Voice UIs and how they work, you'll build a voice-powered sleep tracker to monitor sleeping patterns and much more.
 
 
 ### Communities/chats
