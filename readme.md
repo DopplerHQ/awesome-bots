@@ -263,6 +263,7 @@ You can request access here:
 * [ChatScript](https://github.com/bwilcox-1234/ChatScript) - Natural Language tool/dialog manager
 * [IBM Watson](https://www.ibm.com/watson/developercloud/) - Enable cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
 * [Botfuel NLP](https://www.botfuel.io/en/features/nlp) - Natural Language Understanding/Processing APIs
+* [DeepPavlov](https://deeppavlov.ai) - An open source library for deep learning end-to-end dialog systems and chatbots.
 
 ### Bot building platforms
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
