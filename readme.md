@@ -54,10 +54,12 @@ You can request access here:
 ## Contents
 
 ### Voice bots
-* [Storyline](https://getstoryline.com) - Create voice apps without coding via visual interface and ready-to-use templates.
+* [Invocable (was Storyline)](https://getstoryline.com) - Design and Prototype 
+Alexa Skills. 
 * [BotTalk](https://bottalk.de) - Create voice apps for Amazon Alexa and Google Assistant with simple Yaml Markup.
 
 ### Newsletters
+* [Speaking Naturally by CognitionX](https://cognitionx.com/newsletter-subscribe/) - Weekly plain-English briefing on AI for speech and text, including chatbots, NLP / NLG, virtual assistants, speech analytics and everything in between. [Back issues](https://medium.com/speaking-naturally)
 * [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
 * [Bot Weekly](http://botweekly.com/) - Bot Weekly is a weekly round up of the most interesting chatbot and AI news
 * [Chat Bots Weekly](http://www.chatbotsweekly.com/) - 4100+ people from companies like Slack, Facebook, PH, Kik and Sequoia are here. Covering the industry around Slack, SMS, Kik and Facebook Messenger chatbots. Also called conversational commerce or #ConvComm
@@ -86,6 +88,8 @@ You can request access here:
 * [What's Tech](http://www.theverge.com/2016/4/19/11459188/what-are-bots-explainer-faq-guide-facebook-microsoft-) - Casey Newton from The Verge on the interesting applications of bots
 
 ### Popular examples of bots
+* [Sensay](https://www.sensay.it/) - Instantly connect with a real human whenever you need advice or inspiration. It’s anonymous, free, and works in your favorite messengers
+* [Woebot](https://woebot.io/) - Well-being. Quick conversations to feel better. 
 * [Poncho](https://poncho.is/) - Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit. It's free!
 * [Swelly](https://www.messenger.com/t/swell.bot/) - Bot to provide the fastest way of asking questions and getting opinions by friends!
 * [Instalocate](https://m.me/instalocate) - Instalocate is a real-time flight tracking bot. You can get flight status, delay alerts, arrival, departure, and gate information
@@ -217,7 +221,7 @@ You can request access here:
 * [Bots](https://techcrunch.com/tag/bots/)
 
 #### Medium
-
+* [Speaking Naturally](https://medium.com/speaking-naturally)
 * [Alexa](https://medium.com/tag/alexa)
 * [Voice Assistant](https://medium.com/tag/voice-assistant)
 * [Amazon Echo](https://medium.com/tag/amazon-echo)
@@ -310,7 +314,6 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
 * [Coren](https://heycoren.com/?fref=gc) - Coren allows both businesses and individuals to easily build & use chatbots to automate repetitive tasks, in an innovative way.
 * [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
-* [Broid](https://broid.ai) - Broid’s API enables bots & softwares to converse on more than 20 top messaging channels, including an interactive live chat (web & apps) powered by the best conversational features available. No more doc reading, coding and testing, leverage new channels with the flip of a switch on your dashboard.
 * [WhatsHelp](https://whatshelp.io/) - Messenger Marketing Platform for marketers and entrepreneurs. Grow your subscriber list, create smart bots, and broadcast messages in just a few clicks.
 * [BotNation AI](https://botnation.ai) - Bot building platform for engaging voice and text-based conversational apps.
 * [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
@@ -318,6 +321,8 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [eXvisory](https://exvisory.ai) - Visual framework for creating 'deep logic' product support AI chatbots able to match the BEST human troubleshooters
 
 ### Personal assistants
+* [Zo](http://zo.ai) - Socialbot with speech and text options. Based on Microsoft's Xiaoice technology 
+* [Mitsuku](https://mitsuku.com) - Socialbot. Four-time winner of the Loebner Prize Turing Test.
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
 * [Howdy](https://howdy.ai/) - Meet Howdy — a friendly, trainable bot that helps Slack teams with work
 * [Replika.ai](https://replika.ai/) - Replika is your AI friend that you teach and grow through conversation
@@ -328,8 +333,6 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Viv](http://viv.ai/) - Viv is an artificial intelligence platform that enables developers to distribute their products through an intelligent, conversational interface
 * [Amazon Alexa](https://developer.amazon.com/alexa) - Alexa, the voice service that powers Echo, provides capabilities, or skills, that enable customers to interact with devices in a more intuitive way using voice
 * [Google Home](https://madeby.google.com/home/) - Google Home is a voice-activated speaker powered by the Google Assistant. Ask it questions. Tell it to do things. It’s your own Google, always ready to help. Just start with, "Ok Google"
-* [Magic](https://getmagic.com/) - Magic is a special phone number you text to get anything you want, hassle free, 24/7
-* [Sensay](https://www.sensay.it/) - Instantly connect with a real human whenever you need advice or inspiration. It’s anonymous, free, and works in your favorite messengers
 
 ### Payment & subscription services
 * [Tap2Pay](http://tap2pay.me/) - Payments solution for chatbots
@@ -479,6 +482,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [BotCopy](https://www.botcopy.com/) - A bot writing and design agency based in sunny LA.
 
 ### Influencers/People
+* **Julian Harris** - Head of Technology at CognitionX [Twitter](https://twitter.com/julianharris) [Medium](https://medium.com/@julian.harris)
 * **Dag Kittlaus** - Co-Founder/CEO Siri & Viv Labs. [Twitter](https://twitter.com/Dagk) [Medium](https://medium.com/@Dagk)
 * **Oren Jacob** - Founder and CEO, PullString. [Twitter](https://twitter.com/orenjacob) [Medium](https://medium.com/@orenjacob) [Facebook](https://facebook.com/748835990)
 * **Chris Messina** - Invented the hashtag; X Uber; Xoogler. [Twitter](https://twitter.com/chrismessina) [Medium](https://medium.com/@chrismessina) [Facebook](https://facebook.com/10152495575826874)
