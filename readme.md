@@ -350,6 +350,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 ### Bot Development
 
 #### SDKs/Frameworks/Libraries
+* [Intelligo Framework](https://github.com/intelligo-systems/intelligo) - AI Chatbot Framework for Node.js 
 * [BotPress](https://botpress.io/) - An open-source ecosystem for developers to create, manage and extend bots
 * [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
 * [Bottie](https://github.com/andrew-templeton/bottie) - simple rules based Slackbot with a basic chat based CMS inteface
