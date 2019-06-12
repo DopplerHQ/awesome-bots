@@ -54,7 +54,7 @@ You can request access here:
 ## Contents
 
 ### Voice bots
-* [Storyline](https://getstoryline.com) - Create voice apps without coding via visual interface and ready-to-use templates.
+* [Voiceflow](https://www.voiceflow.com/) - Create voice apps for Amazon Alexa and Google Assistant. No coding needed.
 * [BotTalk](https://bottalk.de) - Create voice apps for Amazon Alexa and Google Assistant with simple Yaml Markup.
 
 ### Newsletters
