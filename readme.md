@@ -86,7 +86,6 @@ You can request access here:
 * [What's Tech](http://www.theverge.com/2016/4/19/11459188/what-are-bots-explainer-faq-guide-facebook-microsoft-) - Casey Newton from The Verge on the interesting applications of bots
 
 ### Popular examples of bots
-* [Poncho](https://poncho.is/) - Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit. It's free!
 * [Swelly](https://www.messenger.com/t/swell.bot/) - Bot to provide the fastest way of asking questions and getting opinions by friends!
 * [Instalocate](https://m.me/instalocate) - Instalocate is a real-time flight tracking bot. You can get flight status, delay alerts, arrival, departure, and gate information
 * [Kayak](https://www.messenger.com/t/90811893045/) - The bot lets users find flights and hotels using conversational language rather than the old-school method of plugging in dates and sifting through hundreds of results
