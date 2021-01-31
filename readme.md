@@ -551,6 +551,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Bot Theory](https://github.com/dpgailey/bot-theory-book) - Bot Theory: A Concise Introduction. Defining the scope, components, architecture and relationships of bots and their environments
 * [Building Chatbots with Microsoft Bot Framework and Node.js](https://www.manning.com/books/building-chatbots-with-microsoft-bot-framework-and-nodejs) - A book that provides a Step-by-Step guide to building chatbots using the Microsoft Bot Framework and Node.js. The book also discusses the underlying architecture and design principles for building chatbots.
 * [Building a Chatbot with Laravel and BotMan](https://laravel-news.com/chatbot) - "Building a Chatbot with Laravel and Botman" is a hands on guide to building your own personal chatbot. You'll learn how to onboard new users, allow them to access your latest articles, push out new articles in real-time and respond to small talk.
+* [Creating Virtual Assistants](https://www.manning.com/books/creating-virtual-assistants) - A book that helps you design, build, train, and test your chatbot.
 
 ### Communities/chats
 * [Bot Designers, Developers & Marketers](https://www.facebook.com/groups/botdesigners/) - Facebook community where experts share information, tactics and strategies for designing, building, and marketing bots.
