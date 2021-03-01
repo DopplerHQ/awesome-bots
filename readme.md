@@ -1,16 +1,24 @@
 # Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-![Botcube awesome bots chatbots](banner.png)
-
 > Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-### We also run one of the most active Facebook communities (1100+ members) and Telegram channel (1,700+ members) about voice assistants.
+---	
 
-You can request access here:
+<div align="center">	
+	<p>	
+		<a href="https://doppler.com">	
+      <div>	
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
+			</div>	
+      <br>
+			<b>Secrets management, for developers</b>	
+			<div>Stop struggling with scattered environment variables, hacking together home-brewed tools,</div>
+			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
+		</a>	
+	</p>	
+</div>	
 
-1. Facebook group: https://www.facebook.com/groups/storylinecommunity
-
-2. Telegram channel (hot industry news & insights): https://t.me/botcube
+---
 
 ## Table of Contents
 - [Voice bots](#voice-bots)
