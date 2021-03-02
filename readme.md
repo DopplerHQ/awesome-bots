@@ -1,9 +1,3 @@
-# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-> Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
-
----	
-
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com">	
@@ -14,11 +8,15 @@
 			<b>Secrets management, for developers</b>	
 			<div>Stop struggling with scattered environment variables, hacking together home-brewed tools,</div>
 			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
+			</br>
 		</a>	
 	</p>	
 </div>	
 
----
+
+# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+> Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
 ## Table of Contents
 - [Voice bots](#voice-bots)
