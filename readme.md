@@ -579,5 +579,3 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Doppler](https://doppler.com) has waived all copyright and related or neighboring rights to this work.
