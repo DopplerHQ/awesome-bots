@@ -264,7 +264,6 @@
 * [api.ai](https://api.ai) - Conversational User Experience Platform from Google. Build brand-unique, natural language interactions for bots, applications, services, and devices.
 * [h2o.ai](http://www.h2o.ai/) - H2O.ai is a Visionary in the Gartner Magic Quadrant for Data Science Platforms
 * [Amazon Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications. Powered by the same deep learning technologies as Alexa
-* [Rasa NLU](http://rasa.ai/) - Open-source language understanding for bots. A drop-in replacement for popular NLP tools like wit.ai, api.ai or LUIS
 * [LUIS](https://www.luis.ai/) - Language Understanding Intelligent Service (LUIS). LUIS lets your app understand language
 * [ChatScript](https://github.com/bwilcox-1234/ChatScript) - Natural Language tool/dialog manager
 * [IBM Watson](https://www.ibm.com/watson/developercloud/) - Enable cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
@@ -399,6 +398,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Telegram-Typings](https://www.npmjs.com/package/telegram-typings) - A tool for parsing Telegram API page to the typings.
 * [Chatito](https://rodrigopivi.github.io/Chatito) - Generate datasets for nlu chatbots quickly using a simple DSL.
 * [Probot](https://probot.github.io/) - SDK for building bots around GitHub workflows
+* [Rasa Stack](https://rasa.com/) - Open source machine learning framework to automate text and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more.
 
 #### Boilerplates/templates
 * [Ruby Telegram bot boilerplate](https://github.com/MaximAbramchuck/ruby-telegram-bot-starter-kit)
