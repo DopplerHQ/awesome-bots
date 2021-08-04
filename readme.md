@@ -113,6 +113,7 @@
 * [Slack bot directory](https://slack.com/apps)
 * [Intento](https://inten.to/) - Search platform for FB Messenger/Telegram/Viber
 * [Telegram Bots Store](https://storebot.me/)
+* [Discord Bots List](https://top-bots.xyz)
 * [Botpages](https://www.botpages.com/) - Botpages help make it easier for you to discover and find bots
 * [ProductHunt bot directory](https://www.producthunt.com/topics/bots)
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
