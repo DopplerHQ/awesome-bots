@@ -153,6 +153,7 @@
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics. Increase user engagement, acquisition, and monetization through actionable bot analytics. Now supporting Alexa and Google Home
 * [BotAnalytics](https://botanalytics.co/) - Make decisions with historical & real time conversation data. We combine real time conversations with historical ones to help answer the toughest questions about engaged, churnable and retained conversations
 * [Facebook Bot Analytics](https://developers.facebook.com/docs/messenger-platform/product-overview/analytics) - Official Analytics tool for Facebook Messenger Bots
+* [Image-Charts](https://image-charts.com/) - Display high-resolution, beautiful crisp charts to your customers through your chat bot
 * [ChatUrl](https://charturl.com/) - Easily add rich, data-driven charts to your web & mobile apps, chat bots, and emails. We’ve thought of everything to help you transform your data into chart images with less effort
 * [Botlytics](http://www.botlytics.co/) - Analytics for your bot. Track the messages your bot sends and the conversations your bot has
 * [UxProbe](https://www.uxpro.be/chatbot-analytics/) - Use UXprobe to measure the most important thing about a chatbot – how often users are successful. See how users complete or fail tasks (intents). Drill into sessions with failed tasks to improve the logic of your chatbot
