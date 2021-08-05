@@ -336,6 +336,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Google Home](https://madeby.google.com/home/) - Google Home is a voice-activated speaker powered by the Google Assistant. Ask it questions. Tell it to do things. It’s your own Google, always ready to help. Just start with, "Ok Google"
 * [Magic](https://getmagic.com/) - Magic is a special phone number you text to get anything you want, hassle free, 24/7
 * [Sensay](https://www.sensay.it/) - Instantly connect with a real human whenever you need advice or inspiration. It’s anonymous, free, and works in your favorite messengers
+* [HangoutsChatPollsBot](https://github.com/Samahu/HangoutsChatPollsBot) - A chatbot that allows you to create and run custom polls within G-Suite Hangouts Chat environment
 
 ### Payment & subscription services
 * [Tap2Pay](http://tap2pay.me/) - Payments solution for chatbots
