@@ -257,7 +257,6 @@
 * [Botunity](http://botunity.co/) - Find a job you love in the Bot & AI Industry. Your next opportunity could be with one of these leading companies. Apply today
 * [BotJobs](http://botjobs.io/) - A job board focused on the Bot Industry
 * [Botified](https://botified.io/) - Hire Quality Bot Developers And Find Bot Jobs
-* [ChatbotJobs](https://chatbotjobs.co/) - Find the remote or onsite job related to bots, AI, NLP, machine learning, data, neural networks
 * [BotGig](http://www.botgig.com/) - Hire a top-tier development team to build your chatbot
 * [BotMakers Projects](https://www.facebook.com/groups/439131813146973) - A Facebook group with Chatbot Development projects curated by BotMakers.
 
