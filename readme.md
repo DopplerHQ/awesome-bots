@@ -360,6 +360,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications
 * [Bottie](https://github.com/andrew-templeton/bottie) - simple rules based Slackbot with a basic chat based CMS inteface
 * [Bottr](https://github.com/Bottr-js/Bottr) - The world's simplest framework for creating Bots
+* [ChatFAQ](https://github.com/ChatFAQ/ChatFAQ) - Open source project for developers to create, admin and extend AI assistants
 * [Microsoft Bot Framework](https://docs.botframework.com/en-us/downloads/) - SDKs for multi platform bots
 * [Botmaster](http://botmasterai.com/) - A simple chatbot framework for serious projects
 * [Alexa Skill Kit](https://github.com/stojanovic/alexa-skill-kit) - Library for effortless Alexa Skill development with AWS Lambda
