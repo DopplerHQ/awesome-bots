@@ -14,9 +14,9 @@
 </div>	
 
 
-# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Awesome bots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+This project is no longer actively supported.
 
 ## Table of Contents
 - [Voice bots](#voice-bots)
